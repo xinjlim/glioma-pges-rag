@@ -1,0 +1,675 @@
+barcode,Composite Element REF,years_to_birth,vital_status,days_to_death,days_to_last_followup,tumor_tissue_site,gender,date_of_initial_pathologic_diagnosis,days_to_last_known_alive,radiation_therapy,karnofsky_performance_score,histological_type,race,ethnicity,patient_id,OS,OS.time
+tcga-cs-6665,value,51,0,,1568,central nervous system,female,2010,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-CS-6665,0,1568.0
+tcga-cs-6670,value,43,0,,1426,central nervous system,male,2011,,,,oligodendroglioma,white,not hispanic or latino,TCGA-CS-6670,0,1426.0
+tcga-db-a4xc,value,26,0,,1421,central nervous system,male,2010,,yes,,oligoastrocytoma,white,not hispanic or latino,TCGA-DB-A4XC,0,1421.0
+tcga-dh-5141,value,32,0,,968,central nervous system,male,2005,,yes,,oligodendroglioma,white,hispanic or latino,TCGA-DH-5141,0,968.0
+tcga-dh-a66b,value,52,0,,1279,central nervous system,male,2010,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-DH-A66B,0,1279.0
+tcga-du-7300,value,53,1,1886,,central nervous system,female,2006,,no,100,oligodendroglioma,white,not hispanic or latino,TCGA-DU-7300,1,1886.0
+tcga-du-a76o,value,30,0,,522,central nervous system,male,2013,,yes,,astrocytoma,white,not hispanic or latino,TCGA-DU-A76O,0,522.0
+tcga-e1-a7yn,value,63,1,727,,central nervous system,female,2010,,yes,80,astrocytoma,white,not hispanic or latino,TCGA-E1-A7YN,1,727.0
+tcga-fg-8187,value,31,0,,611,central nervous system,male,2011,,no,90,oligoastrocytoma,white,not hispanic or latino,TCGA-FG-8187,0,611.0
+tcga-fg-a60k,value,34,0,,542,central nervous system,female,2012,,no,,oligoastrocytoma,white,not hispanic or latino,TCGA-FG-A60K,0,542.0
+tcga-fg-a713,value,74,0,,622,central nervous system,female,2013,,yes,60,oligoastrocytoma,white,not hispanic or latino,TCGA-FG-A713,0,622.0
+tcga-fg-a87n,value,37,0,,567,central nervous system,female,2013,,yes,,astrocytoma,asian,not hispanic or latino,TCGA-FG-A87N,0,567.0
+tcga-ht-a619,value,51,0,,651,central nervous system,female,2012,,no,,oligodendroglioma,asian,not hispanic or latino,TCGA-HT-A619,0,651.0
+tcga-hw-7490,value,41,0,,1387,central nervous system,male,2011,,no,,astrocytoma,white,not hispanic or latino,TCGA-HW-7490,0,1387.0
+tcga-ik-8125,value,62,0,,1301,central nervous system,male,2009,,yes,,oligoastrocytoma,white,not hispanic or latino,TCGA-IK-8125,0,1301.0
+tcga-r8-a73m,value,48,0,,1806,central nervous system,female,2008,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-R8-A73M,0,1806.0
+tcga-06-5408,value,54,1,357,,brain,female,2009,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-5408,1,357.0
+tcga-06-5410,value,72,1,108,,brain,female,2010,,no,60,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-5410,1,108.0
+tcga-06-5411,value,51,1,254,,brain,male,2010,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-5411,1,254.0
+tcga-06-5412,value,78,1,138,,brain,female,2010,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-5412,1,138.0
+tcga-06-5413,value,67,0,,268,brain,male,2010,,yes,60,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-5413,0,268.0
+tcga-06-5414,value,61,0,,273,brain,male,2010,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-5414,0,273.0
+tcga-06-5415,value,60,0,,260,brain,male,2010,,yes,100,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-5415,0,260.0
+tcga-06-5416,value,23,0,,204,brain,female,2010,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-5416,0,204.0
+tcga-06-5417,value,45,0,,155,brain,female,2010,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-5417,0,155.0
+tcga-06-5418,value,75,1,83,,brain,female,2010,,no,60,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-5418,1,83.0
+tcga-06-5856,value,58,1,114,,brain,male,2010,,no,,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-5856,1,114.0
+tcga-06-5858,value,45,0,,187,brain,female,2010,,yes,100,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-5858,0,187.0
+tcga-06-5859,value,63,0,,139,brain,male,2011,,yes,40,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-5859,0,139.0
+tcga-12-1597,value,62,1,675,,brain,female,2002,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-12-1597,1,675.0
+tcga-12-3650,value,46,1,333,,brain,male,2008,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-12-3650,1,333.0
+tcga-12-3652,value,60,1,1062,,brain,male,2003,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-12-3652,1,1062.0
+tcga-12-3653,value,34,1,442,,brain,female,2008,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-12-3653,1,442.0
+tcga-12-5295,value,60,1,454,,brain,female,2008,,yes,,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-12-5295,1,454.0
+tcga-12-5299,value,56,1,98,,brain,female,2009,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-12-5299,1,98.0
+tcga-14-0736,value,49,1,460,,brain,male,1999,,yes,100,untreated primary (de novo) gbm,black or african american,,TCGA-14-0736,1,460.0
+tcga-14-0781,value,49,1,29,,brain,male,2003,,no,,untreated primary (de novo) gbm,black or african american,,TCGA-14-0781,1,29.0
+tcga-14-0790,value,64,1,419,,brain,female,2006,,yes,60,untreated primary (de novo) gbm,white,,TCGA-14-0790,1,419.0
+tcga-14-1034,value,60,1,485,,brain,female,1999,,yes,60,untreated primary (de novo) gbm,,,TCGA-14-1034,1,485.0
+tcga-14-1402,value,58,1,975,,brain,female,2005,,yes,80,untreated primary (de novo) gbm,white,,TCGA-14-1402,1,975.0
+tcga-14-1823,value,58,1,543,,brain,female,2007,,yes,80,untreated primary (de novo) gbm,white,,TCGA-14-1823,1,543.0
+tcga-14-1825,value,70,1,232,,brain,male,2007,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-14-1825,1,232.0
+tcga-14-1829,value,57,0,,218,brain,male,2009,,yes,60,untreated primary (de novo) gbm,black or african american,,TCGA-14-1829,0,218.0
+tcga-14-2554,value,52,1,532,,brain,female,2002,,yes,60,untreated primary (de novo) gbm,white,,TCGA-14-2554,1,532.0
+tcga-16-1045,value,49,1,883,,brain,female,2006,,yes,,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-16-1045,1,883.0
+tcga-19-1390,value,63,1,772,,brain,female,2007,,no,60,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-19-1390,1,772.0
+tcga-19-1787,value,48,1,385,,brain,male,2008,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-19-1787,1,385.0
+tcga-19-2619,value,55,0,,294,brain,female,2009,,yes,40,untreated primary (de novo) gbm,black or african american,not hispanic or latino,TCGA-19-2619,0,294.0
+tcga-19-2620,value,70,1,148,,brain,male,2009,,yes,40,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-19-2620,1,148.0
+tcga-19-2624,value,51,1,5,,brain,male,2009,,no,,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-19-2624,1,5.0
+tcga-19-2625,value,76,1,124,,brain,female,2009,,no,,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-19-2625,1,124.0
+tcga-19-2629,value,60,1,737,,brain,male,2009,,yes,,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-19-2629,1,737.0
+tcga-19-4065,value,36,0,,214,brain,male,2009,,yes,,untreated primary (de novo) gbm,white,hispanic or latino,TCGA-19-4065,0,214.0
+tcga-19-5960,value,56,1,455,,brain,male,2010,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-19-5960,1,455.0
+tcga-26-5132,value,74,0,,286,brain,male,2009,,yes,60,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-26-5132,0,286.0
+tcga-26-5135,value,72,1,270,,brain,female,2009,,,,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-26-5135,1,270.0
+tcga-26-5136,value,78,1,577,,brain,female,2009,,,,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-26-5136,1,577.0
+tcga-27-1830,value,57,1,154,,brain,male,2007,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-27-1830,1,154.0
+tcga-27-1831,value,66,1,505,,brain,male,2006,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-27-1831,1,505.0
+tcga-27-1832,value,59,1,300,,brain,female,2007,,yes,100,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-27-1832,1,300.0
+tcga-27-1834,value,56,1,1233,,brain,male,2006,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-27-1834,1,1233.0
+tcga-27-1835,value,53,1,648,,brain,female,2007,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-27-1835,1,648.0
+tcga-27-1837,value,36,1,427,,brain,male,2007,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-27-1837,1,427.0
+tcga-27-2519,value,48,1,550,,brain,male,2009,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-27-2519,1,550.0
+tcga-27-2521,value,34,1,510,,brain,male,2009,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-27-2521,1,510.0
+tcga-27-2523,value,63,1,489,,brain,male,2005,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-27-2523,1,489.0
+tcga-27-2524,value,56,1,231,,brain,male,2008,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-27-2524,1,231.0
+tcga-27-2526,value,79,1,87,,brain,female,2007,,no,40,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-27-2526,1,87.0
+tcga-27-2528,value,62,1,480,,brain,male,2008,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-27-2528,1,480.0
+tcga-28-1747,value,44,1,77,,brain,male,2008,,yes,,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-28-1747,1,77.0
+tcga-28-1753,value,53,0,,37,brain,male,2009,,yes,,untreated primary (de novo) gbm,white,hispanic or latino,TCGA-28-1753,0,37.0
+tcga-28-2509,value,77,0,,145,brain,female,2009,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-28-2509,0,145.0
+tcga-32-1970,value,59,1,468,,brain,male,2005,,yes,,untreated primary (de novo) gbm,white,,TCGA-32-1970,1,468.0
+tcga-32-1980,value,72,1,36,,brain,male,2008,,no,,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-32-1980,1,36.0
+tcga-32-1982,value,76,1,142,,brain,female,2008,,,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-32-1982,1,142.0
+tcga-32-2615,value,62,1,485,,brain,male,2009,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-32-2615,1,485.0
+tcga-32-2632,value,80,1,269,,brain,male,2008,,,,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-32-2632,1,269.0
+tcga-32-2634,value,82,0,,693,brain,male,2009,,no,,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-32-2634,0,693.0
+tcga-32-2638,value,67,1,766,,brain,male,2009,,no,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-32-2638,1,766.0
+tcga-32-4213,value,47,0,,604,brain,female,2009,,yes,70,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-32-4213,0,604.0
+tcga-32-5222,value,66,1,585,,brain,male,2010,,yes,,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-32-5222,1,585.0
+tcga-41-2571,value,89,1,26,,brain,male,2009,,no,60,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-41-2571,1,26.0
+tcga-41-2572,value,67,1,406,,brain,male,2009,,yes,,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-41-2572,1,406.0
+tcga-41-3915,value,48,1,360,,brain,male,2010,,yes,,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-41-3915,1,360.0
+tcga-41-4097,value,63,1,6,,brain,female,2010,,no,,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-41-4097,1,6.0
+tcga-41-5651,value,59,1,460,,brain,female,2010,,yes,,untreated primary (de novo) gbm,black or african american,not hispanic or latino,TCGA-41-5651,1,460.0
+tcga-76-4925,value,76,1,146,,brain,male,2005,,yes,100,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-76-4925,1,146.0
+tcga-76-4926,value,68,1,138,,brain,male,2005,,yes,80,untreated primary (de novo) gbm,white,,TCGA-76-4926,1,138.0
+tcga-76-4927,value,58,1,535,,brain,male,2005,,,80,untreated primary (de novo) gbm,white,,TCGA-76-4927,1,535.0
+tcga-76-4928,value,85,1,94,,brain,female,2005,,yes,80,untreated primary (de novo) gbm,white,,TCGA-76-4928,1,94.0
+tcga-76-4929,value,76,1,111,,brain,female,2005,,,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-76-4929,1,111.0
+tcga-76-4931,value,70,1,279,,brain,female,2005,,yes,80,untreated primary (de novo) gbm,white,,TCGA-76-4931,1,279.0
+tcga-76-4932,value,50,1,1458,,brain,female,2006,,yes,80,treated primary gbm,white,,TCGA-76-4932,1,1458.0
+tcga-cs-4938,value,31,0,,3574,central nervous system,female,2005,,no,90,astrocytoma,white,not hispanic or latino,TCGA-CS-4938,0,3574.0
+tcga-cs-4941,value,67,1,234,,central nervous system,male,2005,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-CS-4941,1,234.0
+tcga-cs-4942,value,44,1,1335,,central nervous system,female,2006,,yes,70,astrocytoma,black or african american,,TCGA-CS-4942,1,1335.0
+tcga-cs-4943,value,37,1,1106,,central nervous system,male,2009,,no,50,astrocytoma,white,,TCGA-CS-4943,1,1106.0
+tcga-cs-4944,value,50,0,,1828,central nervous system,male,2010,,yes,100,astrocytoma,white,,TCGA-CS-4944,0,1828.0
+tcga-cs-5390,value,47,1,,,central nervous system,female,2005,,yes,100,oligodendroglioma,white,,TCGA-CS-5390,1,
+tcga-cs-5393,value,39,0,,1222,central nervous system,male,2008,,yes,100,astrocytoma,white,,TCGA-CS-5393,0,1222.0
+tcga-cs-5394,value,40,0,,8,central nervous system,male,2005,,no,,astrocytoma,white,,TCGA-CS-5394,0,8.0
+tcga-cs-5395,value,43,1,639,,central nervous system,male,2007,,yes,80,oligodendroglioma,black or african american,,TCGA-CS-5395,1,639.0
+tcga-cs-5396,value,53,0,,1631,central nervous system,female,2010,,yes,90,oligodendroglioma,white,not hispanic or latino,TCGA-CS-5396,0,1631.0
+tcga-cs-5397,value,54,1,194,,central nervous system,female,2010,,yes,80,astrocytoma,white,not hispanic or latino,TCGA-CS-5397,1,194.0
+tcga-cs-6186,value,58,1,538,,central nervous system,male,2009,,yes,80,oligoastrocytoma,white,not hispanic or latino,TCGA-CS-6186,1,538.0
+tcga-cs-6188,value,48,1,814,,central nervous system,male,2009,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-CS-6188,1,814.0
+tcga-cs-6290,value,31,1,1137,,central nervous system,male,2009,,yes,90,astrocytoma,,,TCGA-CS-6290,1,1137.0
+tcga-cs-6666,value,22,0,,1428,central nervous system,male,2010,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-CS-6666,0,1428.0
+tcga-cs-6667,value,39,0,,1469,central nervous system,female,2010,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-CS-6667,0,1469.0
+tcga-cs-6668,value,57,0,,1519,central nervous system,female,2011,,no,90,oligodendroglioma,white,not hispanic or latino,TCGA-CS-6668,0,1519.0
+tcga-cs-6669,value,26,0,,1494,central nervous system,female,2011,,no,90,oligodendroglioma,white,,TCGA-CS-6669,0,1494.0
+tcga-db-5270,value,38,0,,3733,central nervous system,female,2002,,no,,oligoastrocytoma,white,not hispanic or latino,TCGA-DB-5270,0,3733.0
+tcga-db-5273,value,33,0,,2493,central nervous system,male,2006,,yes,,astrocytoma,white,not hispanic or latino,TCGA-DB-5273,0,2493.0
+tcga-db-5274,value,37,0,,2289,central nervous system,female,2006,,yes,80,oligoastrocytoma,white,not hispanic or latino,TCGA-DB-5274,0,2289.0
+tcga-db-5275,value,36,0,,1458,central nervous system,male,2006,,yes,,oligoastrocytoma,white,not hispanic or latino,TCGA-DB-5275,0,1458.0
+tcga-db-5276,value,32,0,,2218,central nervous system,male,2007,,yes,,oligoastrocytoma,white,not hispanic or latino,TCGA-DB-5276,0,2218.0
+tcga-db-5277,value,34,1,1547,,central nervous system,male,2007,,yes,,astrocytoma,white,not hispanic or latino,TCGA-DB-5277,1,1547.0
+tcga-db-5278,value,17,0,,2772,central nervous system,male,2007,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-DB-5278,0,2772.0
+tcga-db-5279,value,59,0,,1354,central nervous system,male,2007,,no,,oligodendroglioma,,,TCGA-DB-5279,0,1354.0
+tcga-db-5280,value,43,0,,1112,central nervous system,male,2007,,no,,oligoastrocytoma,white,not hispanic or latino,TCGA-DB-5280,0,1112.0
+tcga-db-5281,value,61,0,,2381,central nervous system,male,2006,,yes,,oligoastrocytoma,white,not hispanic or latino,TCGA-DB-5281,0,2381.0
+tcga-db-a4x9,value,33,0,,1412,central nervous system,female,2010,,no,,oligoastrocytoma,white,not hispanic or latino,TCGA-DB-A4X9,0,1412.0
+tcga-db-a4xa,value,30,0,,573,central nervous system,male,2012,,yes,,oligoastrocytoma,white,not hispanic or latino,TCGA-DB-A4XA,0,573.0
+tcga-db-a4xb,value,38,0,,919,central nervous system,male,2011,,yes,,astrocytoma,white,not hispanic or latino,TCGA-DB-A4XB,0,919.0
+tcga-db-a4xd,value,32,0,,1210,central nervous system,male,2010,,yes,,astrocytoma,white,not hispanic or latino,TCGA-DB-A4XD,0,1210.0
+tcga-db-a4xe,value,27,0,,1139,central nervous system,female,2011,,yes,90,oligoastrocytoma,white,not hispanic or latino,TCGA-DB-A4XE,0,1139.0
+tcga-db-a4xf,value,41,0,,1021,central nervous system,female,2011,,yes,,astrocytoma,white,not hispanic or latino,TCGA-DB-A4XF,0,1021.0
+tcga-db-a4xg,value,34,0,,2219,central nervous system,male,2006,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-DB-A4XG,0,2219.0
+tcga-db-a4xh,value,53,0,,962,central nervous system,female,2011,,no,,oligoastrocytoma,white,not hispanic or latino,TCGA-DB-A4XH,0,962.0
+tcga-db-a64l,value,67,0,,736,central nervous system,female,2012,,no,70,oligodendroglioma,white,not hispanic or latino,TCGA-DB-A64L,0,736.0
+tcga-db-a64o,value,59,1,775,,central nervous system,male,2011,,yes,,oligoastrocytoma,white,not hispanic or latino,TCGA-DB-A64O,1,775.0
+tcga-db-a64p,value,40,0,,916,central nervous system,male,2012,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-DB-A64P,0,916.0
+tcga-db-a64q,value,31,0,,182,central nervous system,female,2012,,no,90,oligoastrocytoma,,,TCGA-DB-A64Q,0,182.0
+tcga-db-a64r,value,24,0,,955,central nervous system,female,2012,,no,90,oligodendroglioma,,hispanic or latino,TCGA-DB-A64R,0,955.0
+tcga-db-a64s,value,20,0,,835,central nervous system,male,2012,,no,100,oligoastrocytoma,white,not hispanic or latino,TCGA-DB-A64S,0,835.0
+tcga-db-a64u,value,38,0,,846,central nervous system,female,2011,,no,90,oligoastrocytoma,white,not hispanic or latino,TCGA-DB-A64U,0,846.0
+tcga-db-a64v,value,54,0,,889,central nervous system,male,2012,,no,90,oligodendroglioma,white,not hispanic or latino,TCGA-DB-A64V,0,889.0
+tcga-db-a64w,value,65,1,438,,central nervous system,female,2012,,yes,90,oligoastrocytoma,white,not hispanic or latino,TCGA-DB-A64W,1,438.0
+tcga-db-a64x,value,56,0,,563,central nervous system,female,2012,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-DB-A64X,0,563.0
+tcga-db-a75k,value,55,0,,368,central nervous system,female,2013,,yes,,oligoastrocytoma,white,not hispanic or latino,TCGA-DB-A75K,0,368.0
+tcga-db-a75l,value,36,0,,342,central nervous system,female,2013,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-DB-A75L,0,342.0
+tcga-db-a75m,value,47,0,,544,central nervous system,male,2013,,yes,,astrocytoma,white,not hispanic or latino,TCGA-DB-A75M,0,544.0
+tcga-db-a75o,value,29,0,,935,central nervous system,male,2010,,,90,astrocytoma,white,not hispanic or latino,TCGA-DB-A75O,0,935.0
+tcga-db-a75p,value,25,0,,492,central nervous system,female,2013,,no,,astrocytoma,,,TCGA-DB-A75P,0,492.0
+tcga-dh-5140,value,38,1,607,,central nervous system,female,2007,,yes,90,oligoastrocytoma,white,not hispanic or latino,TCGA-DH-5140,1,607.0
+tcga-dh-5142,value,29,0,,1943,central nervous system,male,2008,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-DH-5142,0,1943.0
+tcga-dh-5143,value,30,0,,1401,central nervous system,male,2009,,yes,80,oligoastrocytoma,white,not hispanic or latino,TCGA-DH-5143,0,1401.0
+tcga-dh-5144,value,56,0,,748,central nervous system,female,2009,,yes,100,oligodendroglioma,white,not hispanic or latino,TCGA-DH-5144,0,748.0
+tcga-dh-a669,value,70,1,919,,central nervous system,male,2007,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-DH-A669,1,919.0
+tcga-dh-a66d,value,43,0,,846,central nervous system,female,2012,,yes,80,astrocytoma,white,not hispanic or latino,TCGA-DH-A66D,0,846.0
+tcga-dh-a66f,value,49,0,,523,central nervous system,male,2012,,no,90,oligodendroglioma,white,not hispanic or latino,TCGA-DH-A66F,0,523.0
+tcga-dh-a66g,value,49,0,,523,central nervous system,female,2013,,yes,80,oligodendroglioma,white,not hispanic or latino,TCGA-DH-A66G,0,523.0
+tcga-dh-a7ur,value,59,0,,1650,central nervous system,female,2008,,yes,90,oligodendroglioma,white,not hispanic or latino,TCGA-DH-A7UR,0,1650.0
+tcga-dh-a7us,value,50,0,,706,central nervous system,male,2013,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-DH-A7US,0,706.0
+tcga-dh-a7ut,value,30,1,531,,central nervous system,male,2013,,yes,,astrocytoma,white,not hispanic or latino,TCGA-DH-A7UT,1,531.0
+tcga-dh-a7uu,value,43,0,,417,central nervous system,male,2013,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-DH-A7UU,0,417.0
+tcga-dh-a7uv,value,49,0,,566,central nervous system,male,2013,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-DH-A7UV,0,566.0
+tcga-du-5847,value,34,0,,548,central nervous system,female,2009,,yes,,astrocytoma,white,not hispanic or latino,TCGA-DU-5847,0,548.0
+tcga-du-5849,value,48,0,,443,central nervous system,male,2010,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-DU-5849,0,443.0
+tcga-du-5851,value,40,0,,531,central nervous system,female,2010,,yes,90,oligoastrocytoma,white,not hispanic or latino,TCGA-DU-5851,0,531.0
+tcga-du-5852,value,61,1,205,,central nervous system,female,2010,,no,50,oligoastrocytoma,white,not hispanic or latino,TCGA-DU-5852,1,205.0
+tcga-du-5853,value,29,0,,407,central nervous system,male,2010,,yes,100,oligoastrocytoma,white,not hispanic or latino,TCGA-DU-5853,0,407.0
+tcga-du-5854,value,57,0,,257,central nervous system,female,2010,,yes,100,astrocytoma,white,not hispanic or latino,TCGA-DU-5854,0,257.0
+tcga-du-5855,value,49,0,,207,central nervous system,female,2010,,yes,100,oligoastrocytoma,white,not hispanic or latino,TCGA-DU-5855,0,207.0
+tcga-du-5870,value,34,0,,5546,central nervous system,female,1995,,yes,70,oligodendroglioma,white,not hispanic or latino,TCGA-DU-5870,0,5546.0
+tcga-du-5871,value,37,0,,576,central nervous system,female,2009,,yes,100,oligoastrocytoma,white,not hispanic or latino,TCGA-DU-5871,0,576.0
+tcga-du-5872,value,43,0,,532,central nervous system,female,2009,,yes,,oligoastrocytoma,black or african american,not hispanic or latino,TCGA-DU-5872,0,532.0
+tcga-du-5874,value,62,0,,461,central nervous system,female,2010,,no,100,oligodendroglioma,white,not hispanic or latino,TCGA-DU-5874,0,461.0
+tcga-du-6392,value,35,0,,6423,central nervous system,female,1993,,yes,,astrocytoma,white,not hispanic or latino,TCGA-DU-6392,0,6423.0
+tcga-du-6393,value,66,1,1585,,central nervous system,male,1993,,yes,,oligodendroglioma,white,not hispanic or latino,TCGA-DU-6393,1,1585.0
+tcga-du-6394,value,53,1,682,,central nervous system,male,1994,,yes,,oligodendroglioma,white,not hispanic or latino,TCGA-DU-6394,1,682.0
+tcga-du-6395,value,31,1,1491,,central nervous system,male,1994,,yes,,oligoastrocytoma,white,not hispanic or latino,TCGA-DU-6395,1,1491.0
+tcga-du-6396,value,31,1,2286,,central nervous system,female,1996,,yes,90,oligoastrocytoma,white,not hispanic or latino,TCGA-DU-6396,1,2286.0
+tcga-du-6397,value,45,1,1401,,central nervous system,male,1997,,yes,,oligodendroglioma,white,not hispanic or latino,TCGA-DU-6397,1,1401.0
+tcga-du-6399,value,54,1,2000,,central nervous system,male,1998,,yes,,oligodendroglioma,white,not hispanic or latino,TCGA-DU-6399,1,2000.0
+tcga-du-6400,value,66,1,37,,central nervous system,female,1998,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-DU-6400,1,37.0
+tcga-du-6401,value,31,1,2660,,central nervous system,female,1998,,yes,100,oligodendroglioma,white,not hispanic or latino,TCGA-DU-6401,1,2660.0
+tcga-du-6402,value,52,1,214,,central nervous system,male,1998,,yes,,astrocytoma,white,not hispanic or latino,TCGA-DU-6402,1,214.0
+tcga-du-6403,value,60,1,354,,central nervous system,female,1999,,yes,90,oligoastrocytoma,white,not hispanic or latino,TCGA-DU-6403,1,354.0
+tcga-du-6404,value,24,1,4068,,central nervous system,female,2000,,yes,100,oligodendroglioma,white,not hispanic or latino,TCGA-DU-6404,1,4068.0
+tcga-du-6405,value,51,1,605,,central nervous system,female,2000,,yes,60,astrocytoma,white,not hispanic or latino,TCGA-DU-6405,1,605.0
+tcga-du-6406,value,59,1,512,,central nervous system,female,2001,,yes,,oligoastrocytoma,white,not hispanic or latino,TCGA-DU-6406,1,512.0
+tcga-du-6407,value,35,1,2875,,central nervous system,female,2001,,yes,80,oligodendroglioma,white,not hispanic or latino,TCGA-DU-6407,1,2875.0
+tcga-du-6408,value,23,1,3470,,central nervous system,female,1998,,yes,90,oligodendroglioma,white,not hispanic or latino,TCGA-DU-6408,1,3470.0
+tcga-du-6410,value,56,0,,242,central nervous system,male,2010,,no,50,oligodendroglioma,white,not hispanic or latino,TCGA-DU-6410,0,242.0
+tcga-du-6542,value,25,0,,73,central nervous system,male,2011,,yes,,oligoastrocytoma,white,not hispanic or latino,TCGA-DU-6542,0,73.0
+tcga-du-7006,value,60,1,349,,central nervous system,female,1995,,yes,,astrocytoma,white,not hispanic or latino,TCGA-DU-7006,1,349.0
+tcga-du-7007,value,33,1,1915,,central nervous system,male,1997,,,,astrocytoma,white,not hispanic or latino,TCGA-DU-7007,1,1915.0
+tcga-du-7008,value,41,0,,4752,central nervous system,female,1998,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-DU-7008,0,4752.0
+tcga-du-7009,value,32,1,4695,,central nervous system,female,2000,,yes,100,oligodendroglioma,white,not hispanic or latino,TCGA-DU-7009,1,4695.0
+tcga-du-7010,value,58,1,456,,central nervous system,female,2001,,yes,,astrocytoma,white,not hispanic or latino,TCGA-DU-7010,1,456.0
+tcga-du-7011,value,25,1,3200,,central nervous system,male,2000,,yes,80,oligoastrocytoma,white,not hispanic or latino,TCGA-DU-7011,1,3200.0
+tcga-du-7012,value,74,1,199,,central nervous system,female,2001,,yes,,astrocytoma,black or african american,not hispanic or latino,TCGA-DU-7012,1,199.0
+tcga-du-7013,value,59,1,269,,central nervous system,male,2001,,yes,70,astrocytoma,white,not hispanic or latino,TCGA-DU-7013,1,269.0
+tcga-du-7014,value,59,1,3571,,central nervous system,male,2001,,yes,50,oligodendroglioma,white,not hispanic or latino,TCGA-DU-7014,1,3571.0
+tcga-du-7015,value,41,0,,2761,central nervous system,female,2004,,no,90,oligodendroglioma,white,not hispanic or latino,TCGA-DU-7015,0,2761.0
+tcga-du-7018,value,57,1,933,,central nervous system,female,2006,,no,90,oligodendroglioma,white,not hispanic or latino,TCGA-DU-7018,1,933.0
+tcga-du-7019,value,39,0,,800,central nervous system,male,2009,,yes,100,oligoastrocytoma,white,not hispanic or latino,TCGA-DU-7019,0,800.0
+tcga-du-7290,value,45,1,315,,central nervous system,female,1995,,no,,astrocytoma,white,not hispanic or latino,TCGA-DU-7290,1,315.0
+tcga-du-7292,value,69,1,242,,central nervous system,male,1997,,yes,,astrocytoma,white,not hispanic or latino,TCGA-DU-7292,1,242.0
+tcga-du-7294,value,53,0,,2869,central nervous system,female,2003,,no,100,oligodendroglioma,white,not hispanic or latino,TCGA-DU-7294,0,2869.0
+tcga-du-7298,value,38,1,576,,central nervous system,female,2006,,yes,80,astrocytoma,black or african american,not hispanic or latino,TCGA-DU-7298,1,576.0
+tcga-du-7299,value,33,1,1339,,central nervous system,male,2006,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-DU-7299,1,1339.0
+tcga-du-7301,value,53,1,788,,central nervous system,male,2006,,yes,60,oligodendroglioma,white,not hispanic or latino,TCGA-DU-7301,1,788.0
+tcga-du-7302,value,48,0,,1834,central nervous system,female,2006,,no,70,oligodendroglioma,white,not hispanic or latino,TCGA-DU-7302,0,1834.0
+tcga-du-7304,value,43,1,709,,central nervous system,male,2008,,yes,80,oligoastrocytoma,white,not hispanic or latino,TCGA-DU-7304,1,709.0
+tcga-du-7306,value,67,0,,1277,central nervous system,male,2008,,yes,100,oligoastrocytoma,white,not hispanic or latino,TCGA-DU-7306,0,1277.0
+tcga-du-7309,value,41,0,,84,central nervous system,female,2011,,yes,90,oligodendroglioma,white,not hispanic or latino,TCGA-DU-7309,0,84.0
+tcga-du-8158,value,57,1,155,,central nervous system,female,2001,,,80,astrocytoma,white,not hispanic or latino,TCGA-DU-8158,1,155.0
+tcga-du-8161,value,63,1,722,,central nervous system,female,2009,,yes,70,oligoastrocytoma,white,not hispanic or latino,TCGA-DU-8161,1,722.0
+tcga-du-8162,value,61,1,444,,central nervous system,female,2011,,yes,80,oligoastrocytoma,white,not hispanic or latino,TCGA-DU-8162,1,444.0
+tcga-du-8163,value,29,0,,629,central nervous system,male,2011,,yes,90,oligoastrocytoma,white,not hispanic or latino,TCGA-DU-8163,0,629.0
+tcga-du-8164,value,51,0,,651,central nervous system,male,2011,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-DU-8164,0,651.0
+tcga-du-8165,value,60,0,,582,central nervous system,female,2011,,yes,90,oligodendroglioma,white,not hispanic or latino,TCGA-DU-8165,0,582.0
+tcga-du-8166,value,29,0,,516,central nervous system,female,2012,,yes,,oligoastrocytoma,white,not hispanic or latino,TCGA-DU-8166,0,516.0
+tcga-du-8167,value,69,0,,471,central nervous system,female,2012,,yes,100,oligoastrocytoma,white,not hispanic or latino,TCGA-DU-8167,0,471.0
+tcga-du-8168,value,55,0,,431,central nervous system,female,2012,,yes,70,oligodendroglioma,white,not hispanic or latino,TCGA-DU-8168,0,431.0
+tcga-du-a5tp,value,33,0,,1012,central nervous system,male,2012,,yes,70,astrocytoma,white,not hispanic or latino,TCGA-DU-A5TP,0,1012.0
+tcga-du-a5tr,value,51,0,,908,central nervous system,male,2012,,no,90,oligoastrocytoma,white,not hispanic or latino,TCGA-DU-A5TR,0,908.0
+tcga-du-a5ts,value,42,0,,964,central nervous system,male,2012,,yes,100,oligodendroglioma,black or african american,not hispanic or latino,TCGA-DU-A5TS,0,964.0
+tcga-du-a5tt,value,70,0,,743,central nervous system,male,2013,,yes,,oligodendroglioma,white,not hispanic or latino,TCGA-DU-A5TT,0,743.0
+tcga-du-a5tu,value,62,0,,796,central nervous system,female,2013,,yes,50,astrocytoma,white,not hispanic or latino,TCGA-DU-A5TU,0,796.0
+tcga-du-a5tw,value,33,0,,760,central nervous system,female,2012,,no,100,astrocytoma,black or african american,not hispanic or latino,TCGA-DU-A5TW,0,760.0
+tcga-du-a5ty,value,46,1,1033,,central nervous system,female,2012,,yes,,astrocytoma,white,not hispanic or latino,TCGA-DU-A5TY,1,1033.0
+tcga-du-a6s2,value,37,0,,777,central nervous system,female,2013,,no,70,oligodendroglioma,black or african american,not hispanic or latino,TCGA-DU-A6S2,0,777.0
+tcga-du-a6s3,value,60,0,,656,central nervous system,male,2013,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-DU-A6S3,0,656.0
+tcga-du-a6s6,value,35,0,,2893,central nervous system,female,2007,,no,90,oligoastrocytoma,white,not hispanic or latino,TCGA-DU-A6S6,0,2893.0
+tcga-du-a6s7,value,27,0,,638,central nervous system,female,2013,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-DU-A6S7,0,638.0
+tcga-du-a6s8,value,74,0,,678,central nervous system,female,2013,,no,90,oligodendroglioma,white,not hispanic or latino,TCGA-DU-A6S8,0,678.0
+tcga-du-a76k,value,86,1,347,,central nervous system,male,1999,,yes,,oligodendroglioma,white,not hispanic or latino,TCGA-DU-A76K,1,347.0
+tcga-du-a76l,value,54,1,814,,central nervous system,male,2000,,yes,,oligodendroglioma,white,not hispanic or latino,TCGA-DU-A76L,1,814.0
+tcga-du-a76r,value,51,1,648,,central nervous system,male,2006,,yes,50,oligodendroglioma,white,not hispanic or latino,TCGA-DU-A76R,1,648.0
+tcga-du-a7t6,value,73,1,547,,central nervous system,female,2002,,,60,oligodendroglioma,white,not hispanic or latino,TCGA-DU-A7T6,1,547.0
+tcga-du-a7t8,value,35,1,4229,,central nervous system,male,2003,,yes,100,oligoastrocytoma,white,not hispanic or latino,TCGA-DU-A7T8,1,4229.0
+tcga-du-a7ta,value,32,0,,2565,central nervous system,male,2007,,yes,80,oligodendroglioma,white,not hispanic or latino,TCGA-DU-A7TA,0,2565.0
+tcga-du-a7tb,value,56,0,,1567,central nervous system,male,2010,,no,100,oligodendroglioma,asian,not hispanic or latino,TCGA-DU-A7TB,0,1567.0
+tcga-du-a7tc,value,32,0,,1137,central nervous system,male,2011,,no,90,astrocytoma,white,not hispanic or latino,TCGA-DU-A7TC,0,1137.0
+tcga-du-a7td,value,52,1,228,,central nervous system,male,2012,,yes,60,oligoastrocytoma,white,not hispanic or latino,TCGA-DU-A7TD,1,228.0
+tcga-du-a7tg,value,40,1,1351,,central nervous system,male,2008,,no,70,oligodendroglioma,white,not hispanic or latino,TCGA-DU-A7TG,1,1351.0
+tcga-du-a7ti,value,32,1,1183,,central nervous system,male,1998,,yes,,astrocytoma,white,not hispanic or latino,TCGA-DU-A7TI,1,1183.0
+tcga-du-a7tj,value,55,0,,17,central nervous system,male,2013,,,,astrocytoma,black or african american,not hispanic or latino,TCGA-DU-A7TJ,0,17.0
+tcga-e1-5302,value,41,1,1525,,central nervous system,male,1998,,yes,100,astrocytoma,white,not hispanic or latino,TCGA-E1-5302,1,1525.0
+tcga-e1-5303,value,38,1,2052,,central nervous system,male,1998,,yes,80,astrocytoma,white,not hispanic or latino,TCGA-E1-5303,1,2052.0
+tcga-e1-5304,value,42,1,1251,,central nervous system,male,1999,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-E1-5304,1,1251.0
+tcga-e1-5305,value,34,1,2433,,central nervous system,male,2000,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-E1-5305,1,2433.0
+tcga-e1-5307,value,62,1,1762,,central nervous system,female,2000,,yes,80,astrocytoma,white,not hispanic or latino,TCGA-E1-5307,1,1762.0
+tcga-e1-5311,value,31,1,4084,,central nervous system,male,1994,,yes,100,oligodendroglioma,white,not hispanic or latino,TCGA-E1-5311,1,4084.0
+tcga-e1-5318,value,42,1,2379,,central nervous system,female,1997,,yes,100,oligodendroglioma,white,not hispanic or latino,TCGA-E1-5318,1,2379.0
+tcga-e1-5319,value,48,1,2907,,central nervous system,female,1998,,no,100,oligodendroglioma,white,not hispanic or latino,TCGA-E1-5319,1,2907.0
+tcga-e1-5322,value,38,1,3978,,central nervous system,female,1999,,,90,oligoastrocytoma,white,not hispanic or latino,TCGA-E1-5322,1,3978.0
+tcga-e1-a7yd,value,57,1,435,,central nervous system,male,1998,,yes,,astrocytoma,white,not hispanic or latino,TCGA-E1-A7YD,1,435.0
+tcga-e1-a7ye,value,32,1,886,,central nervous system,female,2001,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-E1-A7YE,1,886.0
+tcga-e1-a7yh,value,47,1,2835,,central nervous system,female,2005,,yes,80,astrocytoma,white,not hispanic or latino,TCGA-E1-A7YH,1,2835.0
+tcga-e1-a7yi,value,33,1,111,,central nervous system,female,2008,,no,80,astrocytoma,white,not hispanic or latino,TCGA-E1-A7YI,1,111.0
+tcga-e1-a7yj,value,55,1,592,,central nervous system,male,2008,,yes,80,astrocytoma,white,not hispanic or latino,TCGA-E1-A7YJ,1,592.0
+tcga-e1-a7yk,value,52,1,378,,central nervous system,male,2009,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-E1-A7YK,1,378.0
+tcga-e1-a7yl,value,46,1,492,,central nervous system,male,2009,,yes,80,astrocytoma,white,not hispanic or latino,TCGA-E1-A7YL,1,492.0
+tcga-e1-a7ym,value,63,1,648,,central nervous system,male,2010,,yes,80,astrocytoma,white,not hispanic or latino,TCGA-E1-A7YM,1,648.0
+tcga-e1-a7yo,value,45,1,2282,,central nervous system,male,1995,,no,100,oligodendroglioma,white,not hispanic or latino,TCGA-E1-A7YO,1,2282.0
+tcga-e1-a7yq,value,58,1,1578,,central nervous system,female,2000,,yes,60,oligodendroglioma,black or african american,not hispanic or latino,TCGA-E1-A7YQ,1,1578.0
+tcga-e1-a7ys,value,71,1,466,,central nervous system,male,2007,,yes,80,oligodendroglioma,black or african american,not hispanic or latino,TCGA-E1-A7YS,1,466.0
+tcga-e1-a7yu,value,42,1,23,,central nervous system,male,1996,,no,,oligoastrocytoma,white,not hispanic or latino,TCGA-E1-A7YU,1,23.0
+tcga-e1-a7yv,value,26,1,987,,central nervous system,female,2010,,yes,90,oligoastrocytoma,white,not hispanic or latino,TCGA-E1-A7YV,1,987.0
+tcga-e1-a7yw,value,28,1,1120,,central nervous system,male,2002,,yes,90,oligoastrocytoma,white,not hispanic or latino,TCGA-E1-A7YW,1,1120.0
+tcga-e1-a7yy,value,27,1,4445,,central nervous system,female,1998,,yes,100,oligodendroglioma,white,not hispanic or latino,TCGA-E1-A7YY,1,4445.0
+tcga-e1-a7z2,value,58,1,398,,central nervous system,female,2012,,no,80,oligodendroglioma,white,not hispanic or latino,TCGA-E1-A7Z2,1,398.0
+tcga-e1-a7z3,value,31,1,2235,,central nervous system,female,1992,,yes,,astrocytoma,black or african american,not hispanic or latino,TCGA-E1-A7Z3,1,2235.0
+tcga-e1-a7z4,value,35,1,4412,,central nervous system,male,1999,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-E1-A7Z4,1,4412.0
+tcga-e1-a7z6,value,41,1,984,,central nervous system,female,2009,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-E1-A7Z6,1,984.0
+tcga-ez-7264,value,47,0,,1201,central nervous system,female,2011,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-EZ-7264,0,1201.0
+tcga-f6-a8o3,value,34,0,,7,central nervous system,male,2013,,,,oligodendroglioma,asian,not hispanic or latino,TCGA-F6-A8O3,0,7.0
+tcga-f6-a8o4,value,44,0,,6,central nervous system,male,2013,,,,astrocytoma,asian,not hispanic or latino,TCGA-F6-A8O4,0,6.0
+tcga-fg-5962,value,54,0,,1453,central nervous system,male,2009,,yes,,oligodendroglioma,white,not hispanic or latino,TCGA-FG-5962,0,1453.0
+tcga-fg-5963,value,23,1,775,,central nervous system,male,2009,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-FG-5963,1,775.0
+tcga-fg-5964,value,62,0,,1588,central nervous system,male,2010,,yes,,oligodendroglioma,white,not hispanic or latino,TCGA-FG-5964,0,1588.0
+tcga-fg-5965,value,39,1,1120,,central nervous system,female,2008,,no,90,oligoastrocytoma,white,not hispanic or latino,TCGA-FG-5965,1,1120.0
+tcga-fg-6688,value,59,0,,571,central nervous system,female,2010,,yes,50,astrocytoma,black or african american,not hispanic or latino,TCGA-FG-6688,0,571.0
+tcga-fg-6689,value,30,0,,454,central nervous system,male,2011,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-FG-6689,0,454.0
+tcga-fg-6690,value,70,0,,1294,central nervous system,male,2011,,yes,90,oligodendroglioma,white,not hispanic or latino,TCGA-FG-6690,0,1294.0
+tcga-fg-6691,value,23,0,,1257,central nervous system,female,2011,,no,80,astrocytoma,white,not hispanic or latino,TCGA-FG-6691,0,1257.0
+tcga-fg-6692,value,63,1,561,,central nervous system,male,2011,,yes,,oligodendroglioma,white,not hispanic or latino,TCGA-FG-6692,1,561.0
+tcga-fg-7634,value,28,0,,467,central nervous system,male,2008,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-FG-7634,0,467.0
+tcga-fg-7636,value,48,0,,544,central nervous system,male,2011,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-FG-7636,0,544.0
+tcga-fg-7637,value,49,0,,1219,central nervous system,male,2009,,no,,oligoastrocytoma,white,not hispanic or latino,TCGA-FG-7637,0,1219.0
+tcga-fg-7638,value,31,0,,686,central nervous system,female,2011,,yes,100,oligodendroglioma,white,not hispanic or latino,TCGA-FG-7638,0,686.0
+tcga-fg-7641,value,31,0,,627,central nervous system,male,2011,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-FG-7641,0,627.0
+tcga-fg-7643,value,49,0,,611,central nervous system,female,2011,,no,,oligoastrocytoma,white,not hispanic or latino,TCGA-FG-7643,0,611.0
+tcga-fg-8181,value,23,0,,862,central nervous system,male,2012,,yes,90,oligoastrocytoma,white,not hispanic or latino,TCGA-FG-8181,0,862.0
+tcga-fg-8182,value,35,0,,416,central nervous system,male,2012,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-FG-8182,0,416.0
+tcga-fg-8185,value,37,0,,433,central nervous system,male,2012,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-FG-8185,0,433.0
+tcga-fg-8186,value,42,0,,487,central nervous system,female,2011,,yes,70,oligoastrocytoma,white,hispanic or latino,TCGA-FG-8186,0,487.0
+tcga-fg-8188,value,41,0,,455,central nervous system,male,2012,,no,90,oligoastrocytoma,white,not hispanic or latino,TCGA-FG-8188,0,455.0
+tcga-fg-8189,value,33,0,,685,central nervous system,female,2012,,yes,70,oligodendroglioma,white,not hispanic or latino,TCGA-FG-8189,0,685.0
+tcga-fg-8191,value,30,0,,992,central nervous system,male,2011,,yes,,oligodendroglioma,white,not hispanic or latino,TCGA-FG-8191,0,992.0
+tcga-fg-a4mt,value,27,0,,1164,central nervous system,female,2010,,no,100,oligodendroglioma,white,not hispanic or latino,TCGA-FG-A4MT,0,1164.0
+tcga-fg-a4mu,value,58,0,,326,central nervous system,male,2012,,,,oligoastrocytoma,white,not hispanic or latino,TCGA-FG-A4MU,0,326.0
+tcga-fg-a4mw,value,63,1,559,,central nervous system,male,2012,,yes,80,oligoastrocytoma,white,not hispanic or latino,TCGA-FG-A4MW,1,559.0
+tcga-fg-a4mx,value,47,0,,569,central nervous system,male,2012,,yes,100,astrocytoma,white,not hispanic or latino,TCGA-FG-A4MX,0,569.0
+tcga-fg-a4my,value,44,0,,721,central nervous system,female,2012,,yes,,oligoastrocytoma,white,hispanic or latino,TCGA-FG-A4MY,0,721.0
+tcga-fg-a60j,value,47,0,,449,central nervous system,female,2012,,no,90,oligoastrocytoma,white,not hispanic or latino,TCGA-FG-A60J,0,449.0
+tcga-fg-a60l,value,34,0,,655,central nervous system,female,2012,,no,100,astrocytoma,white,not hispanic or latino,TCGA-FG-A60L,0,655.0
+tcga-fg-a6iz,value,60,0,,457,central nervous system,male,2013,,yes,,oligodendroglioma,white,not hispanic or latino,TCGA-FG-A6IZ,0,457.0
+tcga-fg-a6j1,value,44,0,,500,central nervous system,female,2013,,yes,70,oligodendroglioma,white,not hispanic or latino,TCGA-FG-A6J1,0,500.0
+tcga-fg-a6j3,value,52,0,,677,central nervous system,female,2012,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-FG-A6J3,0,677.0
+tcga-fg-a70y,value,20,0,,868,central nervous system,female,2011,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-FG-A70Y,0,868.0
+tcga-fg-a70z,value,53,0,,328,central nervous system,female,2011,,yes,,oligoastrocytoma,black or african american,not hispanic or latino,TCGA-FG-A70Z,0,328.0
+tcga-fg-a710,value,50,0,,1115,central nervous system,female,2011,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-FG-A710,0,1115.0
+tcga-fg-a711,value,33,1,1481,,central nervous system,female,2010,,no,90,oligodendroglioma,white,not hispanic or latino,TCGA-FG-A711,1,1481.0
+tcga-fg-a87q,value,61,0,,174,central nervous system,female,2013,,yes,80,astrocytoma,white,not hispanic or latino,TCGA-FG-A87Q,0,174.0
+tcga-fn-7833,value,25,0,,837,central nervous system,male,2011,,yes,,oligoastrocytoma,white,not hispanic or latino,TCGA-FN-7833,0,837.0
+tcga-ht-7467,value,54,0,,3,central nervous system,male,2011,,,,oligodendroglioma,white,not hispanic or latino,TCGA-HT-7467,0,3.0
+tcga-ht-7468,value,30,0,,203,central nervous system,male,2011,,no,80,oligodendroglioma,white,not hispanic or latino,TCGA-HT-7468,0,203.0
+tcga-ht-7469,value,30,1,351,,central nervous system,male,2011,,yes,,oligodendroglioma,white,not hispanic or latino,TCGA-HT-7469,1,351.0
+tcga-ht-7470,value,37,1,1220,,central nervous system,male,2011,,yes,90,oligodendroglioma,white,not hispanic or latino,TCGA-HT-7470,1,1220.0
+tcga-ht-7471,value,37,0,,4,central nervous system,female,2010,,,,oligodendroglioma,white,not hispanic or latino,TCGA-HT-7471,0,4.0
+tcga-ht-7472,value,38,0,,1,central nervous system,male,2010,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-HT-7472,0,1.0
+tcga-ht-7473,value,28,0,,503,central nervous system,male,2010,,yes,,oligoastrocytoma,white,hispanic or latino,TCGA-HT-7473,0,503.0
+tcga-ht-7474,value,52,0,,114,central nervous system,male,2011,,no,,oligoastrocytoma,white,not hispanic or latino,TCGA-HT-7474,0,114.0
+tcga-ht-7475,value,67,0,,530,central nervous system,male,2010,,yes,70,oligoastrocytoma,white,not hispanic or latino,TCGA-HT-7475,0,530.0
+tcga-ht-7476,value,26,0,,199,central nervous system,male,2011,,yes,,astrocytoma,white,hispanic or latino,TCGA-HT-7476,0,199.0
+tcga-ht-7477,value,62,0,,738,central nervous system,male,2011,,yes,80,astrocytoma,white,not hispanic or latino,TCGA-HT-7477,0,738.0
+tcga-ht-7478,value,36,0,,194,central nervous system,male,2011,,yes,,astrocytoma,white,not hispanic or latino,TCGA-HT-7478,0,194.0
+tcga-ht-7479,value,44,0,,1227,central nervous system,male,2011,,yes,,astrocytoma,white,not hispanic or latino,TCGA-HT-7479,0,1227.0
+tcga-ht-7480,value,33,0,,2287,central nervous system,male,2005,,yes,,oligodendroglioma,white,not hispanic or latino,TCGA-HT-7480,0,2287.0
+tcga-ht-7481,value,39,0,,2918,central nervous system,male,2006,,yes,80,oligodendroglioma,white,not hispanic or latino,TCGA-HT-7481,0,2918.0
+tcga-ht-7482,value,18,0,,3253,central nervous system,female,2005,,yes,90,oligoastrocytoma,white,not hispanic or latino,TCGA-HT-7482,0,3253.0
+tcga-ht-7483,value,14,0,,5255,central nervous system,male,1998,,yes,,oligoastrocytoma,white,not hispanic or latino,TCGA-HT-7483,0,5255.0
+tcga-ht-7485,value,42,0,,122,central nervous system,male,2006,,no,100,astrocytoma,white,not hispanic or latino,TCGA-HT-7485,0,122.0
+tcga-ht-7601,value,30,0,,153,central nervous system,female,2008,,yes,,astrocytoma,white,not hispanic or latino,TCGA-HT-7601,0,153.0
+tcga-ht-7602,value,21,0,,908,central nervous system,male,2008,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-HT-7602,0,908.0
+tcga-ht-7603,value,29,0,,705,central nervous system,male,2008,,yes,,oligodendroglioma,white,not hispanic or latino,TCGA-HT-7603,0,705.0
+tcga-ht-7604,value,50,0,,3725,central nervous system,male,2003,,yes,,astrocytoma,black or african american,not hispanic or latino,TCGA-HT-7604,0,3725.0
+tcga-ht-7605,value,38,0,,139,central nervous system,male,2008,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-HT-7605,0,139.0
+tcga-ht-7606,value,30,0,,526,central nervous system,female,2008,,yes,,astrocytoma,white,not hispanic or latino,TCGA-HT-7606,0,526.0
+tcga-ht-7607,value,61,1,96,,central nervous system,female,2008,,no,70,astrocytoma,white,not hispanic or latino,TCGA-HT-7607,1,96.0
+tcga-ht-7608,value,61,0,,671,central nervous system,male,2007,,no,,oligoastrocytoma,black or african american,not hispanic or latino,TCGA-HT-7608,0,671.0
+tcga-ht-7609,value,34,0,,1399,central nervous system,male,2007,,yes,90,oligoastrocytoma,white,not hispanic or latino,TCGA-HT-7609,0,1399.0
+tcga-ht-7610,value,25,0,,1706,central nervous system,female,2007,,no,,oligoastrocytoma,white,not hispanic or latino,TCGA-HT-7610,0,1706.0
+tcga-ht-7611,value,36,0,,1752,central nervous system,male,2007,,no,90,oligoastrocytoma,white,not hispanic or latino,TCGA-HT-7611,0,1752.0
+tcga-ht-7616,value,75,1,7,,central nervous system,male,2007,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-HT-7616,1,7.0
+tcga-ht-7620,value,40,0,,434,central nervous system,male,2007,,yes,,oligodendroglioma,white,not hispanic or latino,TCGA-HT-7620,0,434.0
+tcga-ht-7676,value,26,0,,5,central nervous system,male,2009,,,,oligodendroglioma,white,not hispanic or latino,TCGA-HT-7676,0,5.0
+tcga-ht-7677,value,53,0,,494,central nervous system,male,2009,,yes,,oligodendroglioma,white,not hispanic or latino,TCGA-HT-7677,0,494.0
+tcga-ht-7680,value,32,0,,23,central nervous system,female,2010,,no,,astrocytoma,white,hispanic or latino,TCGA-HT-7680,0,23.0
+tcga-ht-7681,value,29,0,,1359,central nervous system,female,2009,,no,,oligoastrocytoma,white,not hispanic or latino,TCGA-HT-7681,0,1359.0
+tcga-ht-7684,value,58,0,,184,central nervous system,male,2008,,no,,oligoastrocytoma,white,not hispanic or latino,TCGA-HT-7684,0,184.0
+tcga-ht-7686,value,29,0,,1300,central nervous system,female,2008,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-HT-7686,0,1300.0
+tcga-ht-7687,value,74,0,,3,central nervous system,male,2010,,,,oligodendroglioma,white,not hispanic or latino,TCGA-HT-7687,0,3.0
+tcga-ht-7688,value,59,0,,964,central nervous system,male,2009,,yes,,oligodendroglioma,white,not hispanic or latino,TCGA-HT-7688,0,964.0
+tcga-ht-7689,value,58,0,,455,central nervous system,female,2009,,yes,70,oligodendroglioma,white,not hispanic or latino,TCGA-HT-7689,0,455.0
+tcga-ht-7690,value,29,0,,3,central nervous system,male,2009,,no,,oligoastrocytoma,white,not hispanic or latino,TCGA-HT-7690,0,3.0
+tcga-ht-7691,value,31,0,,3,central nervous system,female,2008,,no,,astrocytoma,white,not hispanic or latino,TCGA-HT-7691,0,3.0
+tcga-ht-7692,value,43,0,,90,central nervous system,male,2009,,yes,100,oligoastrocytoma,white,not hispanic or latino,TCGA-HT-7692,0,90.0
+tcga-ht-7693,value,51,0,,533,central nervous system,female,2008,,yes,90,oligodendroglioma,white,not hispanic or latino,TCGA-HT-7693,0,533.0
+tcga-ht-7694,value,60,0,,210,central nervous system,male,2008,,yes,90,oligodendroglioma,white,not hispanic or latino,TCGA-HT-7694,0,210.0
+tcga-ht-7695,value,29,0,,442,central nervous system,female,2009,,yes,,oligodendroglioma,white,not hispanic or latino,TCGA-HT-7695,0,442.0
+tcga-ht-7854,value,62,0,,1201,central nervous system,male,2010,,yes,100,astrocytoma,white,not hispanic or latino,TCGA-HT-7854,0,1201.0
+tcga-ht-7855,value,39,0,,585,central nervous system,male,2008,,yes,80,astrocytoma,white,not hispanic or latino,TCGA-HT-7855,0,585.0
+tcga-ht-7856,value,35,0,,1189,central nervous system,male,2008,,yes,80,oligodendroglioma,white,not hispanic or latino,TCGA-HT-7856,0,1189.0
+tcga-ht-7857,value,24,0,,7,central nervous system,female,2006,,no,,astrocytoma,white,not hispanic or latino,TCGA-HT-7857,0,7.0
+tcga-ht-7858,value,28,0,,1540,central nervous system,male,2007,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-HT-7858,0,1540.0
+tcga-ht-7860,value,60,0,,15,central nervous system,female,2009,,,,astrocytoma,white,not hispanic or latino,TCGA-HT-7860,0,15.0
+tcga-ht-7873,value,29,0,,718,central nervous system,male,2011,,yes,,oligoastrocytoma,white,not hispanic or latino,TCGA-HT-7873,0,718.0
+tcga-ht-7874,value,41,0,,1130,central nervous system,female,2008,,yes,,oligodendroglioma,white,not hispanic or latino,TCGA-HT-7874,0,1130.0
+tcga-ht-7875,value,56,0,,10,central nervous system,male,2008,,yes,80,oligodendroglioma,white,not hispanic or latino,TCGA-HT-7875,0,10.0
+tcga-ht-7877,value,20,0,,4,central nervous system,female,2011,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-HT-7877,0,4.0
+tcga-ht-7879,value,31,0,,112,central nervous system,male,2011,,yes,,oligoastrocytoma,white,not hispanic or latino,TCGA-HT-7879,0,112.0
+tcga-ht-7880,value,30,0,,162,central nervous system,male,2011,,no,,oligoastrocytoma,white,not hispanic or latino,TCGA-HT-7880,0,162.0
+tcga-ht-7881,value,38,0,,1079,central nervous system,male,2011,,yes,,oligodendroglioma,black or african american,not hispanic or latino,TCGA-HT-7881,0,1079.0
+tcga-ht-7882,value,66,1,113,,central nervous system,male,2010,,no,,oligodendroglioma,white,hispanic or latino,TCGA-HT-7882,1,113.0
+tcga-ht-7884,value,44,0,,343,central nervous system,female,2011,,yes,80,astrocytoma,white,not hispanic or latino,TCGA-HT-7884,0,343.0
+tcga-ht-7902,value,30,0,,956,central nervous system,female,2009,,no,,oligoastrocytoma,white,not hispanic or latino,TCGA-HT-7902,0,956.0
+tcga-ht-8010,value,64,0,,50,central nervous system,female,2011,,no,,oligodendroglioma,white,hispanic or latino,TCGA-HT-8010,0,50.0
+tcga-ht-8011,value,55,0,,494,central nervous system,male,2009,,yes,,astrocytoma,white,not hispanic or latino,TCGA-HT-8011,0,494.0
+tcga-ht-8012,value,30,0,,286,central nervous system,female,2010,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-HT-8012,0,286.0
+tcga-ht-8013,value,37,1,1933,,central nervous system,female,2005,,yes,70,oligoastrocytoma,white,not hispanic or latino,TCGA-HT-8013,1,1933.0
+tcga-ht-8015,value,21,0,,3,central nervous system,male,2008,,,,astrocytoma,white,not hispanic or latino,TCGA-HT-8015,0,3.0
+tcga-ht-8018,value,40,1,1152,,central nervous system,female,2010,,yes,,oligoastrocytoma,white,not hispanic or latino,TCGA-HT-8018,1,1152.0
+tcga-ht-8019,value,34,0,,1004,central nervous system,female,2009,,yes,,oligodendroglioma,white,not hispanic or latino,TCGA-HT-8019,0,1004.0
+tcga-ht-8104,value,51,0,,372,central nervous system,female,2010,,,,astrocytoma,white,not hispanic or latino,TCGA-HT-8104,0,372.0
+tcga-ht-8105,value,54,0,,190,central nervous system,male,2011,,yes,70,oligodendroglioma,white,not hispanic or latino,TCGA-HT-8105,0,190.0
+tcga-ht-8106,value,53,0,,3,central nervous system,male,2010,,no,,astrocytoma,white,not hispanic or latino,TCGA-HT-8106,0,3.0
+tcga-ht-8107,value,62,0,,14,central nervous system,male,2011,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-HT-8107,0,14.0
+tcga-ht-8108,value,26,0,,76,central nervous system,female,2011,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-HT-8108,0,76.0
+tcga-ht-8109,value,64,0,,169,central nervous system,male,2011,,yes,,oligodendroglioma,white,hispanic or latino,TCGA-HT-8109,0,169.0
+tcga-ht-8110,value,57,0,,419,central nervous system,male,2011,,yes,,astrocytoma,white,not hispanic or latino,TCGA-HT-8110,0,419.0
+tcga-ht-8111,value,32,0,,7,central nervous system,male,2011,,no,,oligoastrocytoma,white,not hispanic or latino,TCGA-HT-8111,0,7.0
+tcga-ht-8113,value,49,0,,900,central nervous system,female,2006,,yes,90,oligodendroglioma,black or african american,not hispanic or latino,TCGA-HT-8113,0,900.0
+tcga-ht-8114,value,36,0,,1040,central nervous system,male,2011,,yes,,oligoastrocytoma,white,not hispanic or latino,TCGA-HT-8114,0,1040.0
+tcga-ht-8558,value,29,0,,418,central nervous system,female,2011,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-HT-8558,0,418.0
+tcga-ht-8563,value,30,0,,860,central nervous system,female,2011,,yes,,astrocytoma,white,not hispanic or latino,TCGA-HT-8563,0,860.0
+tcga-ht-8564,value,47,0,,478,central nervous system,male,2012,,no,80,astrocytoma,white,hispanic or latino,TCGA-HT-8564,0,478.0
+tcga-ht-a4ds,value,55,0,,7,central nervous system,female,2012,,,,astrocytoma,white,not hispanic or latino,TCGA-HT-A4DS,0,7.0
+tcga-ht-a4dv,value,51,0,,792,central nervous system,female,2012,,yes,90,oligodendroglioma,white,not hispanic or latino,TCGA-HT-A4DV,0,792.0
+tcga-ht-a5r5,value,33,0,,4,central nervous system,female,2012,,,,oligodendroglioma,white,hispanic or latino,TCGA-HT-A5R5,0,4.0
+tcga-ht-a5r7,value,33,0,,615,central nervous system,female,2012,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-HT-A5R7,0,615.0
+tcga-ht-a5r9,value,48,0,,2,central nervous system,female,2012,,,,oligodendroglioma,white,not hispanic or latino,TCGA-HT-A5R9,0,2.0
+tcga-ht-a5ra,value,65,0,,832,central nervous system,female,2012,,yes,70,astrocytoma,white,not hispanic or latino,TCGA-HT-A5RA,0,832.0
+tcga-ht-a5rb,value,24,0,,3,central nervous system,male,2011,,,,astrocytoma,white,hispanic or latino,TCGA-HT-A5RB,0,3.0
+tcga-ht-a5rc,value,70,1,162,,central nervous system,female,2012,,yes,40,astrocytoma,white,not hispanic or latino,TCGA-HT-A5RC,1,162.0
+tcga-ht-a614,value,47,0,,82,central nervous system,male,2013,,,,oligoastrocytoma,white,not hispanic or latino,TCGA-HT-A614,0,82.0
+tcga-ht-a615,value,38,0,,515,central nervous system,female,2012,,yes,90,oligodendroglioma,white,not hispanic or latino,TCGA-HT-A615,0,515.0
+tcga-ht-a616,value,36,0,,55,central nervous system,female,2013,,no,,astrocytoma,white,not hispanic or latino,TCGA-HT-A616,0,55.0
+tcga-ht-a617,value,47,0,,491,central nervous system,male,2010,,,60,oligodendroglioma,american indian or alaska native,,TCGA-HT-A617,0,491.0
+tcga-ht-a618,value,37,0,,512,central nervous system,female,2013,,no,80,astrocytoma,white,not hispanic or latino,TCGA-HT-A618,0,512.0
+tcga-ht-a61a,value,20,0,,194,central nervous system,female,2013,,yes,80,oligodendroglioma,white,not hispanic or latino,TCGA-HT-A61A,0,194.0
+tcga-ht-a61b,value,22,0,,533,central nervous system,male,2012,,yes,80,astrocytoma,white,not hispanic or latino,TCGA-HT-A61B,0,533.0
+tcga-ht-a61c,value,66,1,537,,central nervous system,male,2013,,yes,100,oligodendroglioma,white,not hispanic or latino,TCGA-HT-A61C,1,537.0
+tcga-ht-a74h,value,62,0,,74,central nervous system,male,2013,,yes,,astrocytoma,white,not hispanic or latino,TCGA-HT-A74H,0,74.0
+tcga-ht-a74j,value,33,0,,320,central nervous system,male,2013,,no,,oligoastrocytoma,white,not hispanic or latino,TCGA-HT-A74J,0,320.0
+tcga-ht-a74k,value,58,0,,467,central nervous system,female,2012,,yes,,oligodendroglioma,white,not hispanic or latino,TCGA-HT-A74K,0,467.0
+tcga-ht-a74l,value,22,0,,336,central nervous system,female,2013,,,90,oligoastrocytoma,white,not hispanic or latino,TCGA-HT-A74L,0,336.0
+tcga-ht-a74o,value,34,0,,3,central nervous system,male,2013,,,,astrocytoma,white,not hispanic or latino,TCGA-HT-A74O,0,3.0
+tcga-hw-7486,value,37,0,,1721,central nervous system,male,2010,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-HW-7486,0,1721.0
+tcga-hw-7487,value,39,0,,1382,central nervous system,male,2010,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-HW-7487,0,1382.0
+tcga-hw-7489,value,38,1,1262,,central nervous system,male,2011,,no,,oligoastrocytoma,white,not hispanic or latino,TCGA-HW-7489,1,1262.0
+tcga-hw-7491,value,35,0,,2078,central nervous system,male,2009,,no,,oligodendroglioma,white,,TCGA-HW-7491,0,2078.0
+tcga-hw-7493,value,40,0,,2107,central nervous system,female,2009,,yes,,astrocytoma,white,not hispanic or latino,TCGA-HW-7493,0,2107.0
+tcga-hw-7495,value,45,0,,1078,central nervous system,female,2011,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-HW-7495,0,1078.0
+tcga-hw-8319,value,34,1,1209,,central nervous system,female,2011,,yes,,astrocytoma,white,not hispanic or latino,TCGA-HW-8319,1,1209.0
+tcga-hw-8320,value,36,0,,1217,central nervous system,male,2011,,yes,,astrocytoma,white,not hispanic or latino,TCGA-HW-8320,0,1217.0
+tcga-hw-8321,value,31,0,,1294,central nervous system,male,2011,,yes,,astrocytoma,white,not hispanic or latino,TCGA-HW-8321,0,1294.0
+tcga-hw-8322,value,39,0,,758,central nervous system,male,2012,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-HW-8322,0,758.0
+tcga-hw-a5kj,value,68,1,962,,central nervous system,male,2012,,yes,,oligodendroglioma,white,,TCGA-HW-A5KJ,1,962.0
+tcga-hw-a5kk,value,64,1,388,,central nervous system,male,2012,,yes,,astrocytoma,white,,TCGA-HW-A5KK,1,388.0
+tcga-hw-a5kl,value,42,0,,878,central nervous system,female,2012,,yes,,astrocytoma,white,,TCGA-HW-A5KL,0,878.0
+tcga-hw-a5km,value,35,0,,630,central nervous system,male,2012,,no,,astrocytoma,white,,TCGA-HW-A5KM,0,630.0
+tcga-ik-7675,value,43,1,578,,central nervous system,male,2009,,yes,90,oligodendroglioma,white,hispanic or latino,TCGA-IK-7675,1,578.0
+tcga-kt-a74x,value,26,0,,438,central nervous system,male,2013,,yes,90,oligoastrocytoma,white,not hispanic or latino,TCGA-KT-A74X,0,438.0
+tcga-kt-a7w1,value,45,0,,438,central nervous system,female,2013,,yes,80,astrocytoma,white,not hispanic or latino,TCGA-KT-A7W1,0,438.0
+tcga-p5-a5et,value,27,0,,0,central nervous system,male,2012,,,,oligodendroglioma,white,not hispanic or latino,TCGA-P5-A5ET,0,0.0
+tcga-p5-a5eu,value,35,0,,0,central nervous system,male,2012,,no,60,astrocytoma,white,not hispanic or latino,TCGA-P5-A5EU,0,0.0
+tcga-p5-a5ev,value,39,0,,7,central nervous system,male,2012,,,60,astrocytoma,white,not hispanic or latino,TCGA-P5-A5EV,0,7.0
+tcga-p5-a5ew,value,20,0,,204,central nervous system,female,2012,,,80,astrocytoma,white,not hispanic or latino,TCGA-P5-A5EW,0,204.0
+tcga-p5-a5ex,value,41,0,,243,central nervous system,female,2012,,yes,80,oligodendroglioma,white,not hispanic or latino,TCGA-P5-A5EX,0,243.0
+tcga-p5-a5ey,value,21,0,,72,central nervous system,male,2012,,,,astrocytoma,white,not hispanic or latino,TCGA-P5-A5EY,0,72.0
+tcga-p5-a5ez,value,39,0,,70,central nervous system,male,2012,,,,astrocytoma,white,not hispanic or latino,TCGA-P5-A5EZ,0,70.0
+tcga-p5-a5f0,value,33,0,,287,central nervous system,male,2012,,yes,80,oligodendroglioma,white,not hispanic or latino,TCGA-P5-A5F0,0,287.0
+tcga-p5-a5f1,value,30,0,,179,central nervous system,male,2012,,,,astrocytoma,white,not hispanic or latino,TCGA-P5-A5F1,0,179.0
+tcga-p5-a5f2,value,36,0,,242,central nervous system,female,2012,,no,80,astrocytoma,white,not hispanic or latino,TCGA-P5-A5F2,0,242.0
+tcga-p5-a5f4,value,35,0,,231,central nervous system,female,2012,,yes,70,oligodendroglioma,white,not hispanic or latino,TCGA-P5-A5F4,0,231.0
+tcga-p5-a5f6,value,26,0,,39,central nervous system,male,2012,,,70,oligodendroglioma,white,not hispanic or latino,TCGA-P5-A5F6,0,39.0
+tcga-p5-a72u,value,71,0,,7,central nervous system,female,2013,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-P5-A72U,0,7.0
+tcga-p5-a72w,value,35,0,,317,central nervous system,male,2013,,yes,,astrocytoma,white,not hispanic or latino,TCGA-P5-A72W,0,317.0
+tcga-p5-a72x,value,21,0,,403,central nervous system,male,2013,,yes,,astrocytoma,white,not hispanic or latino,TCGA-P5-A72X,0,403.0
+tcga-p5-a72z,value,64,0,,354,central nervous system,female,2013,,yes,,oligodendroglioma,white,not hispanic or latino,TCGA-P5-A72Z,0,354.0
+tcga-p5-a730,value,22,0,,333,central nervous system,male,2013,,no,,oligoastrocytoma,white,not hispanic or latino,TCGA-P5-A730,0,333.0
+tcga-p5-a731,value,59,0,,274,central nervous system,female,2013,,yes,90,oligoastrocytoma,white,not hispanic or latino,TCGA-P5-A731,0,274.0
+tcga-p5-a733,value,52,0,,414,central nervous system,female,2013,,yes,,astrocytoma,white,not hispanic or latino,TCGA-P5-A733,0,414.0
+tcga-p5-a735,value,38,0,,292,central nervous system,female,2013,,no,,astrocytoma,white,not hispanic or latino,TCGA-P5-A735,0,292.0
+tcga-p5-a736,value,44,0,,230,central nervous system,female,2013,,yes,,astrocytoma,white,not hispanic or latino,TCGA-P5-A736,0,230.0
+tcga-p5-a737,value,47,0,,372,central nervous system,male,2012,,no,,oligoastrocytoma,white,not hispanic or latino,TCGA-P5-A737,0,372.0
+tcga-p5-a77w,value,37,0,,584,central nervous system,female,2013,,no,,oligoastrocytoma,white,not hispanic or latino,TCGA-P5-A77W,0,584.0
+tcga-p5-a77x,value,55,0,,105,central nervous system,female,2013,,yes,,oligoastrocytoma,white,not hispanic or latino,TCGA-P5-A77X,0,105.0
+tcga-p5-a780,value,44,0,,72,central nervous system,female,2013,,yes,,astrocytoma,white,not hispanic or latino,TCGA-P5-A780,0,72.0
+tcga-p5-a781,value,34,0,,134,central nervous system,female,2013,,yes,,astrocytoma,white,not hispanic or latino,TCGA-P5-A781,0,134.0
+tcga-qh-a65r,value,38,0,,461,central nervous system,female,2013,,yes,100,oligodendroglioma,white,not hispanic or latino,TCGA-QH-A65R,0,461.0
+tcga-qh-a65s,value,32,0,,77,central nervous system,female,2013,,no,90,oligoastrocytoma,white,not hispanic or latino,TCGA-QH-A65S,0,77.0
+tcga-qh-a65v,value,43,0,,384,central nervous system,female,2013,,no,90,oligodendroglioma,white,not hispanic or latino,TCGA-QH-A65V,0,384.0
+tcga-qh-a65x,value,28,0,,482,central nervous system,female,2013,,yes,90,oligoastrocytoma,white,not hispanic or latino,TCGA-QH-A65X,0,482.0
+tcga-qh-a65z,value,54,0,,427,central nervous system,male,2013,,yes,90,oligodendroglioma,white,not hispanic or latino,TCGA-QH-A65Z,0,427.0
+tcga-qh-a6cs,value,41,0,,588,central nervous system,male,2013,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-QH-A6CS,0,588.0
+tcga-qh-a6cu,value,52,0,,451,central nervous system,female,2013,,yes,90,oligodendroglioma,white,not hispanic or latino,TCGA-QH-A6CU,0,451.0
+tcga-qh-a6cv,value,51,0,,442,central nervous system,male,2013,,yes,90,oligoastrocytoma,asian,not hispanic or latino,TCGA-QH-A6CV,0,442.0
+tcga-qh-a6cw,value,43,0,,414,central nervous system,male,2013,,no,90,oligoastrocytoma,white,not hispanic or latino,TCGA-QH-A6CW,0,414.0
+tcga-qh-a6cx,value,66,1,372,,central nervous system,male,2013,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-QH-A6CX,1,372.0
+tcga-qh-a6cy,value,38,0,,408,central nervous system,male,2013,,yes,90,oligoastrocytoma,white,not hispanic or latino,TCGA-QH-A6CY,0,408.0
+tcga-qh-a6cz,value,38,0,,279,central nervous system,male,2013,,no,90,oligoastrocytoma,white,not hispanic or latino,TCGA-QH-A6CZ,0,279.0
+tcga-qh-a6x3,value,27,0,,313,central nervous system,male,2013,,no,90,oligoastrocytoma,white,not hispanic or latino,TCGA-QH-A6X3,0,313.0
+tcga-qh-a6x4,value,47,0,,442,central nervous system,male,2013,,yes,90,oligoastrocytoma,white,not hispanic or latino,TCGA-QH-A6X4,0,442.0
+tcga-qh-a6x5,value,58,0,,497,central nervous system,female,2013,,no,90,oligoastrocytoma,white,not hispanic or latino,TCGA-QH-A6X5,0,497.0
+tcga-qh-a6x8,value,56,0,,509,central nervous system,female,2013,,yes,100,oligodendroglioma,white,not hispanic or latino,TCGA-QH-A6X8,0,509.0
+tcga-qh-a6x9,value,73,0,,58,central nervous system,female,2013,,no,40,oligodendroglioma,white,not hispanic or latino,TCGA-QH-A6X9,0,58.0
+tcga-qh-a6xa,value,23,0,,502,central nervous system,female,2013,,no,100,oligoastrocytoma,white,not hispanic or latino,TCGA-QH-A6XA,0,502.0
+tcga-qh-a6xc,value,48,0,,508,central nervous system,male,2013,,yes,70,astrocytoma,white,not hispanic or latino,TCGA-QH-A6XC,0,508.0
+tcga-qh-a86x,value,33,0,,337,central nervous system,male,2013,,no,100,oligodendroglioma,white,not hispanic or latino,TCGA-QH-A86X,0,337.0
+tcga-qh-a870,value,38,0,,395,central nervous system,female,2013,,no,80,oligoastrocytoma,white,not hispanic or latino,TCGA-QH-A870,0,395.0
+tcga-r8-a6mk,value,40,0,,2702,central nervous system,male,2005,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-R8-A6MK,0,2702.0
+tcga-r8-a6ml,value,52,0,,2860,central nervous system,male,2005,,yes,,oligodendroglioma,white,hispanic or latino,TCGA-R8-A6ML,0,2860.0
+tcga-r8-a6mo,value,53,0,,993,central nervous system,female,2009,,no,,oligodendroglioma,asian,not hispanic or latino,TCGA-R8-A6MO,0,993.0
+tcga-ry-a83x,value,46,0,,939,central nervous system,female,2012,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-RY-A83X,0,939.0
+tcga-ry-a83y,value,45,0,,166,central nervous system,male,2012,,no,80,oligodendroglioma,white,not hispanic or latino,TCGA-RY-A83Y,0,166.0
+tcga-ry-a83z,value,54,0,,301,central nervous system,female,2012,,yes,,astrocytoma,white,not hispanic or latino,TCGA-RY-A83Z,0,301.0
+tcga-ry-a840,value,47,0,,854,central nervous system,male,2012,,no,90,oligodendroglioma,,,TCGA-RY-A840,0,854.0
+tcga-ry-a843,value,30,0,,63,central nervous system,male,2012,,no,,astrocytoma,white,not hispanic or latino,TCGA-RY-A843,0,63.0
+tcga-ry-a845,value,40,0,,596,central nervous system,female,2013,,no,80,oligoastrocytoma,white,not hispanic or latino,TCGA-RY-A845,0,596.0
+tcga-ry-a847,value,45,0,,933,central nervous system,male,2012,,no,90,oligodendroglioma,white,not hispanic or latino,TCGA-RY-A847,0,933.0
+tcga-s9-a6ts,value,48,1,1891,,central nervous system,female,2006,,yes,100,astrocytoma,white,not hispanic or latino,TCGA-S9-A6TS,1,1891.0
+tcga-s9-a6tu,value,38,0,,2650,central nervous system,male,2007,,no,100,astrocytoma,white,not hispanic or latino,TCGA-S9-A6TU,0,2650.0
+tcga-s9-a6tv,value,50,0,,571,central nervous system,male,2010,,yes,90,oligoastrocytoma,white,not hispanic or latino,TCGA-S9-A6TV,0,571.0
+tcga-s9-a6tw,value,40,0,,1250,central nervous system,male,2011,,no,90,oligodendroglioma,white,not hispanic or latino,TCGA-S9-A6TW,0,1250.0
+tcga-s9-a6tx,value,46,0,,1245,central nervous system,male,2011,,no,100,oligodendroglioma,white,not hispanic or latino,TCGA-S9-A6TX,0,1245.0
+tcga-s9-a6ty,value,50,0,,1076,central nervous system,male,2011,,no,100,oligodendroglioma,white,not hispanic or latino,TCGA-S9-A6TY,0,1076.0
+tcga-s9-a6tz,value,39,0,,1120,central nervous system,female,2011,,no,100,astrocytoma,white,not hispanic or latino,TCGA-S9-A6TZ,0,1120.0
+tcga-s9-a6u0,value,46,1,742,,central nervous system,male,2012,,yes,100,astrocytoma,white,not hispanic or latino,TCGA-S9-A6U0,1,742.0
+tcga-s9-a6u1,value,22,0,,785,central nervous system,female,2012,,no,100,astrocytoma,white,not hispanic or latino,TCGA-S9-A6U1,0,785.0
+tcga-s9-a6u2,value,48,0,,908,central nervous system,female,2012,,yes,100,oligodendroglioma,white,not hispanic or latino,TCGA-S9-A6U2,0,908.0
+tcga-s9-a6u5,value,33,0,,992,central nervous system,male,2011,,no,100,astrocytoma,white,not hispanic or latino,TCGA-S9-A6U5,0,992.0
+tcga-s9-a6u6,value,28,0,,1069,central nervous system,male,2012,,yes,100,astrocytoma,white,not hispanic or latino,TCGA-S9-A6U6,0,1069.0
+tcga-s9-a6u8,value,24,1,2988,,central nervous system,male,2005,,no,100,astrocytoma,white,not hispanic or latino,TCGA-S9-A6U8,1,2988.0
+tcga-s9-a6u9,value,36,0,,2918,central nervous system,male,2006,,yes,,astrocytoma,white,not hispanic or latino,TCGA-S9-A6U9,0,2918.0
+tcga-s9-a6ua,value,66,1,178,,central nervous system,male,2008,,no,60,astrocytoma,white,not hispanic or latino,TCGA-S9-A6UA,1,178.0
+tcga-s9-a6ub,value,52,0,,3761,central nervous system,male,2005,,no,100,oligodendroglioma,white,not hispanic or latino,TCGA-S9-A6UB,0,3761.0
+tcga-s9-a6wd,value,58,0,,2289,central nervous system,male,2008,,no,100,oligodendroglioma,white,not hispanic or latino,TCGA-S9-A6WD,0,2289.0
+tcga-s9-a6we,value,34,0,,4113,central nervous system,male,2004,,no,100,oligodendroglioma,white,not hispanic or latino,TCGA-S9-A6WE,0,4113.0
+tcga-s9-a6wg,value,31,0,,2602,central nervous system,male,2007,,yes,100,astrocytoma,white,not hispanic or latino,TCGA-S9-A6WG,0,2602.0
+tcga-s9-a6wh,value,73,0,,1173,central nervous system,female,2011,,yes,80,oligoastrocytoma,white,not hispanic or latino,TCGA-S9-A6WH,0,1173.0
+tcga-s9-a6wi,value,56,0,,2585,central nervous system,female,2006,,yes,100,oligoastrocytoma,white,not hispanic or latino,TCGA-S9-A6WI,0,2585.0
+tcga-s9-a6wl,value,52,0,,946,central nervous system,male,2012,,no,100,astrocytoma,white,not hispanic or latino,TCGA-S9-A6WL,0,946.0
+tcga-s9-a6wm,value,59,0,,604,central nervous system,female,2012,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-S9-A6WM,0,604.0
+tcga-s9-a6wn,value,38,0,,805,central nervous system,female,2013,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-S9-A6WN,0,805.0
+tcga-s9-a6wo,value,29,0,,566,central nervous system,male,2013,,no,100,astrocytoma,white,not hispanic or latino,TCGA-S9-A6WO,0,566.0
+tcga-s9-a6wp,value,42,0,,567,central nervous system,male,2013,,no,100,oligoastrocytoma,white,not hispanic or latino,TCGA-S9-A6WP,0,567.0
+tcga-s9-a6wq,value,57,0,,428,central nervous system,female,2013,,no,100,oligoastrocytoma,white,not hispanic or latino,TCGA-S9-A6WQ,0,428.0
+tcga-s9-a7iq,value,45,0,,1099,central nervous system,female,2011,,no,100,oligoastrocytoma,white,not hispanic or latino,TCGA-S9-A7IQ,0,1099.0
+tcga-s9-a7is,value,33,1,241,,central nervous system,female,2004,,yes,60,astrocytoma,white,not hispanic or latino,TCGA-S9-A7IS,1,241.0
+tcga-s9-a7ix,value,57,1,819,,central nervous system,male,2012,,yes,100,astrocytoma,white,not hispanic or latino,TCGA-S9-A7IX,1,819.0
+tcga-s9-a7iy,value,39,0,,715,central nervous system,male,2012,,yes,80,oligoastrocytoma,white,not hispanic or latino,TCGA-S9-A7IY,0,715.0
+tcga-s9-a7iz,value,48,0,,608,central nervous system,female,2013,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-S9-A7IZ,0,608.0
+tcga-s9-a7j0,value,30,0,,609,central nervous system,female,2013,,yes,100,oligodendroglioma,white,not hispanic or latino,TCGA-S9-A7J0,0,609.0
+tcga-s9-a7j1,value,43,0,,249,central nervous system,male,2013,,no,60,oligodendroglioma,white,not hispanic or latino,TCGA-S9-A7J1,0,249.0
+tcga-s9-a7j2,value,25,0,,62,central nervous system,male,2013,,no,80,oligodendroglioma,white,not hispanic or latino,TCGA-S9-A7J2,0,62.0
+tcga-s9-a7j3,value,52,0,,629,central nervous system,female,2013,,yes,100,oligodendroglioma,white,not hispanic or latino,TCGA-S9-A7J3,0,629.0
+tcga-s9-a7qw,value,54,0,,458,central nervous system,female,2013,,yes,100,astrocytoma,white,not hispanic or latino,TCGA-S9-A7QW,0,458.0
+tcga-s9-a7qx,value,36,0,,564,central nervous system,female,2013,,yes,100,astrocytoma,white,not hispanic or latino,TCGA-S9-A7QX,0,564.0
+tcga-s9-a7qy,value,35,0,,863,central nervous system,female,2012,,no,100,oligoastrocytoma,white,not hispanic or latino,TCGA-S9-A7QY,0,863.0
+tcga-s9-a7qz,value,41,0,,826,central nervous system,male,2012,,no,100,oligodendroglioma,white,not hispanic or latino,TCGA-S9-A7QZ,0,826.0
+tcga-s9-a7r1,value,35,1,5166,,central nervous system,male,1999,,yes,90,oligodendroglioma,white,not hispanic or latino,TCGA-S9-A7R1,1,5166.0
+tcga-s9-a7r2,value,69,1,316,,central nervous system,male,2008,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-S9-A7R2,1,316.0
+tcga-s9-a7r3,value,28,0,,3013,central nervous system,female,2006,,no,100,astrocytoma,white,not hispanic or latino,TCGA-S9-A7R3,0,3013.0
+tcga-s9-a7r4,value,46,0,,914,central nervous system,male,2012,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-S9-A7R4,0,914.0
+tcga-s9-a7r7,value,27,0,,3000,central nervous system,male,2006,,yes,80,astrocytoma,white,not hispanic or latino,TCGA-S9-A7R7,0,3000.0
+tcga-s9-a7r8,value,44,1,961,,central nervous system,female,2004,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-S9-A7R8,1,961.0
+tcga-s9-a89v,value,70,0,,569,central nervous system,male,2012,,yes,80,astrocytoma,white,not hispanic or latino,TCGA-S9-A89V,0,569.0
+tcga-s9-a89z,value,40,0,,623,central nervous system,male,2013,,yes,70,astrocytoma,white,not hispanic or latino,TCGA-S9-A89Z,0,623.0
+tcga-tm-a7c3,value,43,1,1666,,central nervous system,female,2009,,no,90,astrocytoma,white,not hispanic or latino,TCGA-TM-A7C3,1,1666.0
+tcga-tm-a7c4,value,39,0,,1470,central nervous system,female,2010,,no,90,astrocytoma,white,not hispanic or latino,TCGA-TM-A7C4,0,1470.0
+tcga-tm-a7c5,value,30,0,,1500,central nervous system,male,2010,,no,100,oligoastrocytoma,white,not hispanic or latino,TCGA-TM-A7C5,0,1500.0
+tcga-tm-a7ca,value,44,0,,1058,central nervous system,male,2011,,no,100,astrocytoma,white,not hispanic or latino,TCGA-TM-A7CA,0,1058.0
+tcga-tm-a7cf,value,41,0,,1989,central nervous system,female,2009,,yes,100,astrocytoma,white,not hispanic or latino,TCGA-TM-A7CF,0,1989.0
+tcga-tm-a84b,value,40,1,758,,central nervous system,male,2012,,no,90,astrocytoma,white,not hispanic or latino,TCGA-TM-A84B,1,758.0
+tcga-tm-a84c,value,32,1,492,,central nervous system,male,2012,,no,80,astrocytoma,white,not hispanic or latino,TCGA-TM-A84C,1,492.0
+tcga-tm-a84f,value,48,0,,1796,central nervous system,male,2009,,yes,100,astrocytoma,white,not hispanic or latino,TCGA-TM-A84F,0,1796.0
+tcga-tm-a84g,value,54,0,,1236,central nervous system,female,2010,,yes,100,oligodendroglioma,white,not hispanic or latino,TCGA-TM-A84G,0,1236.0
+tcga-tm-a84h,value,44,0,,926,central nervous system,female,2012,,yes,90,oligoastrocytoma,white,not hispanic or latino,TCGA-TM-A84H,0,926.0
+tcga-tm-a84i,value,30,0,,854,central nervous system,male,2012,,yes,90,astrocytoma,white,not hispanic or latino,TCGA-TM-A84I,0,854.0
+tcga-tm-a84j,value,63,0,,735,central nervous system,male,2012,,yes,80,oligodendroglioma,white,not hispanic or latino,TCGA-TM-A84J,0,735.0
+tcga-tm-a84l,value,31,1,1242,,central nervous system,male,2010,,no,90,oligoastrocytoma,white,not hispanic or latino,TCGA-TM-A84L,1,1242.0
+tcga-tm-a84m,value,40,0,,754,central nervous system,male,2012,,yes,100,oligodendroglioma,white,not hispanic or latino,TCGA-TM-A84M,0,754.0
+tcga-tm-a84o,value,61,1,1011,,central nervous system,female,2011,,yes,90,oligodendroglioma,white,not hispanic or latino,TCGA-TM-A84O,1,1011.0
+tcga-tm-a84q,value,31,0,,772,central nervous system,male,2012,,yes,80,astrocytoma,white,not hispanic or latino,TCGA-TM-A84Q,0,772.0
+tcga-tm-a84r,value,46,0,,566,central nervous system,male,2012,,no,80,oligodendroglioma,white,not hispanic or latino,TCGA-TM-A84R,0,566.0
+tcga-tm-a84s,value,36,0,,454,central nervous system,male,2013,,no,80,oligodendroglioma,white,not hispanic or latino,TCGA-TM-A84S,0,454.0
+tcga-tm-a84t,value,19,0,,724,central nervous system,male,2012,,no,90,oligoastrocytoma,white,not hispanic or latino,TCGA-TM-A84T,0,724.0
+tcga-tq-a7rf,value,27,0,,650,central nervous system,female,2012,,yes,,oligodendroglioma,white,not hispanic or latino,TCGA-TQ-A7RF,0,650.0
+tcga-tq-a7rg,value,36,0,,599,central nervous system,male,2012,,no,100,oligoastrocytoma,white,hispanic or latino,TCGA-TQ-A7RG,0,599.0
+tcga-tq-a7rh,value,39,0,,486,central nervous system,male,2013,,yes,,oligoastrocytoma,black or african american,hispanic or latino,TCGA-TQ-A7RH,0,486.0
+tcga-tq-a7ri,value,37,0,,62,central nervous system,female,2012,,no,,oligodendroglioma,white,hispanic or latino,TCGA-TQ-A7RI,0,62.0
+tcga-tq-a7rj,value,25,0,,1229,central nervous system,female,2011,,yes,,oligoastrocytoma,white,hispanic or latino,TCGA-TQ-A7RJ,0,1229.0
+tcga-tq-a7rk,value,29,0,,1341,central nervous system,male,2010,,no,90,oligoastrocytoma,white,hispanic or latino,TCGA-TQ-A7RK,0,1341.0
+tcga-tq-a7rm,value,41,0,,1116,central nervous system,female,2011,,yes,90,oligoastrocytoma,white,hispanic or latino,TCGA-TQ-A7RM,0,1116.0
+tcga-tq-a7rn,value,32,0,,1026,central nervous system,male,2011,,yes,100,oligodendroglioma,white,hispanic or latino,TCGA-TQ-A7RN,0,1026.0
+tcga-tq-a7ro,value,29,0,,949,central nervous system,male,2011,,no,100,oligoastrocytoma,black or african american,hispanic or latino,TCGA-TQ-A7RO,0,949.0
+tcga-tq-a7rp,value,66,0,,914,central nervous system,male,2012,,yes,90,oligoastrocytoma,black or african american,hispanic or latino,TCGA-TQ-A7RP,0,914.0
+tcga-tq-a7rq,value,38,0,,795,central nervous system,female,2012,,no,90,oligodendroglioma,white,hispanic or latino,TCGA-TQ-A7RQ,0,795.0
+tcga-tq-a7rr,value,38,0,,787,central nervous system,male,2012,,yes,100,oligoastrocytoma,white,hispanic or latino,TCGA-TQ-A7RR,0,787.0
+tcga-tq-a7rs,value,25,0,,-1,central nervous system,female,2012,,no,90,oligodendroglioma,white,hispanic or latino,TCGA-TQ-A7RS,0,-1.0
+tcga-tq-a7ru,value,51,0,,1032,central nervous system,male,2011,,no,80,oligodendroglioma,white,hispanic or latino,TCGA-TQ-A7RU,0,1032.0
+tcga-tq-a7rv,value,27,0,,1868,central nervous system,male,2009,,no,80,astrocytoma,white,hispanic or latino,TCGA-TQ-A7RV,0,1868.0
+tcga-tq-a7rw,value,32,1,821,,central nervous system,male,2010,,yes,90,oligodendroglioma,white,hispanic or latino,TCGA-TQ-A7RW,1,821.0
+tcga-tq-a8xe,value,42,1,954,,central nervous system,female,2010,,no,70,oligodendroglioma,white,hispanic or latino,TCGA-TQ-A8XE,1,954.0
+tcga-vm-a8c8,value,50,0,,1397,central nervous system,female,2011,,yes,90,oligodendroglioma,white,,TCGA-VM-A8C8,0,1397.0
+tcga-vm-a8c9,value,37,0,,1314,central nervous system,female,2011,,no,,astrocytoma,,,TCGA-VM-A8C9,0,1314.0
+tcga-vm-a8ca,value,54,0,,411,central nervous system,male,2011,,no,70,oligodendroglioma,,,TCGA-VM-A8CA,0,411.0
+tcga-vm-a8cb,value,33,0,,3,central nervous system,male,2011,,,,oligodendroglioma,,,TCGA-VM-A8CB,0,3.0
+tcga-vm-a8cd,value,58,1,240,,central nervous system,male,2012,,yes,100,astrocytoma,white,,TCGA-VM-A8CD,1,240.0
+tcga-vm-a8ce,value,25,0,,1191,central nervous system,male,2011,,no,90,oligodendroglioma,white,,TCGA-VM-A8CE,0,1191.0
+tcga-vm-a8cf,value,44,0,,609,central nervous system,female,2013,,yes,60,astrocytoma,white,,TCGA-VM-A8CF,0,609.0
+tcga-vm-a8ch,value,24,0,,714,central nervous system,female,2013,,no,90,astrocytoma,white,,TCGA-VM-A8CH,0,714.0
+tcga-vv-a829,value,44,0,,1127,central nervous system,male,2011,,yes,,oligoastrocytoma,white,not hispanic or latino,TCGA-VV-A829,0,1127.0
+tcga-vv-a86m,value,36,0,,487,central nervous system,female,2013,,yes,,astrocytoma,,hispanic or latino,TCGA-VV-A86M,0,487.0
+tcga-vw-a7qs,value,35,0,,706,central nervous system,female,2011,,no,,oligodendroglioma,asian,not hispanic or latino,TCGA-VW-A7QS,0,706.0
+tcga-vw-a8fi,value,66,1,245,,central nervous system,male,2013,,yes,,astrocytoma,white,not hispanic or latino,TCGA-VW-A8FI,1,245.0
+tcga-w9-a837,value,,0,,1553,central nervous system,male,2010,,no,,oligodendroglioma,white,not hispanic or latino,TCGA-W9-A837,0,1553.0
+tcga-wh-a86k,value,65,0,,405,central nervous system,male,2013,,no,,astrocytoma,white,not hispanic or latino,TCGA-WH-A86K,0,405.0
+tcga-wy-a858,value,32,0,,1337,central nervous system,female,2010,,yes,100,astrocytoma,white,,TCGA-WY-A858,0,1337.0
+tcga-wy-a859,value,34,0,,1213,central nervous system,female,2010,,yes,100,astrocytoma,white,,TCGA-WY-A859,0,1213.0
+tcga-wy-a85a,value,20,0,,1320,central nervous system,male,2010,,no,,astrocytoma,white,,TCGA-WY-A85A,0,1320.0
+tcga-wy-a85b,value,24,0,,1393,central nervous system,male,2010,,no,,astrocytoma,white,,TCGA-WY-A85B,0,1393.0
+tcga-wy-a85c,value,36,0,,1426,central nervous system,male,2010,,yes,,astrocytoma,white,,TCGA-WY-A85C,0,1426.0
+tcga-wy-a85d,value,60,0,,1147,central nervous system,male,2010,,no,,oligoastrocytoma,white,,TCGA-WY-A85D,0,1147.0
+tcga-wy-a85e,value,48,0,,633,central nervous system,female,2011,,no,,oligoastrocytoma,white,,TCGA-WY-A85E,0,633.0
+tcga-02-0047,value,78,1,448,,brain,male,2005,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-02-0047,1,448.0
+tcga-02-0055,value,62,1,76,,brain,female,2005,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-02-0055,1,76.0
+tcga-02-2483,value,43,0,,466,brain,male,2008,,yes,80,untreated primary (de novo) gbm,asian,not hispanic or latino,TCGA-02-2483,0,466.0
+tcga-02-2485,value,53,0,,470,brain,male,2009,,yes,80,untreated primary (de novo) gbm,black or african american,not hispanic or latino,TCGA-02-2485,0,470.0
+tcga-02-2486,value,64,1,618,,brain,male,2008,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-02-2486,1,618.0
+tcga-06-0125,value,63,1,1448,,brain,female,2001,,yes,60,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-0125,1,1448.0
+tcga-06-0129,value,30,1,1024,,brain,male,2002,,yes,100,untreated primary (de novo) gbm,asian,not hispanic or latino,TCGA-06-0129,1,1024.0
+tcga-06-0130,value,54,1,394,,brain,male,2003,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-0130,1,394.0
+tcga-06-0132,value,49,1,771,,brain,male,2007,,yes,,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-0132,1,771.0
+tcga-06-0138,value,43,1,737,,brain,male,2004,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-0138,1,737.0
+tcga-06-0141,value,62,1,313,,brain,male,2000,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-0141,1,313.0
+tcga-06-0152,value,68,1,375,,brain,male,1995,,yes,,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-0152,1,375.0
+tcga-06-0156,value,57,1,178,,brain,male,1998,,yes,,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-0156,1,178.0
+tcga-06-0157,value,63,1,97,,brain,female,1998,,yes,40,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-0157,1,97.0
+tcga-06-0158,value,73,1,329,,brain,male,1998,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-0158,1,329.0
+tcga-06-0168,value,59,1,598,,brain,female,2002,,yes,100,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-0168,1,598.0
+tcga-06-0171,value,65,1,399,,brain,male,2002,,yes,100,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-0171,1,399.0
+tcga-06-0174,value,54,1,98,,brain,male,2003,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-0174,1,98.0
+tcga-06-0178,value,38,1,2681,,brain,male,2004,,yes,90,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-0178,1,2681.0
+tcga-06-0184,value,63,1,2126,,brain,male,2005,,yes,90,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-0184,1,2126.0
+tcga-06-0187,value,69,1,828,,brain,male,2006,,yes,60,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-0187,1,828.0
+tcga-06-0190,value,62,1,317,,brain,male,2006,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-0190,1,317.0
+tcga-06-0210,value,72,1,225,,brain,female,1997,,yes,,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-0210,1,225.0
+tcga-06-0211,value,47,1,360,,brain,male,1997,,yes,100,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-0211,1,360.0
+tcga-06-0219,value,67,1,22,,brain,male,2000,,no,,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-0219,1,22.0
+tcga-06-0221,value,31,1,603,,brain,male,2000,,yes,100,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-0221,1,603.0
+tcga-06-0238,value,46,1,405,,brain,male,2007,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-0238,1,405.0
+tcga-06-0644,value,71,1,384,,brain,male,2007,,yes,50,untreated primary (de novo) gbm,black or african american,not hispanic or latino,TCGA-06-0644,1,384.0
+tcga-06-0645,value,55,1,175,,brain,female,2007,,no,,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-0645,1,175.0
+tcga-06-0646,value,60,1,175,,brain,male,2007,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-0646,1,175.0
+tcga-06-0649,value,73,1,64,,brain,female,2007,,no,,untreated primary (de novo) gbm,black or african american,not hispanic or latino,TCGA-06-0649,1,64.0
+tcga-06-0686,value,53,1,432,,brain,male,2008,,yes,90,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-0686,1,432.0
+tcga-06-0743,value,69,1,803,,brain,male,2006,,yes,90,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-0743,1,803.0
+tcga-06-0744,value,66,1,1426,,brain,male,2007,,yes,100,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-0744,1,1426.0
+tcga-06-0745,value,59,1,239,,brain,male,2007,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-0745,1,239.0
+tcga-06-0747,value,53,1,82,,brain,male,2007,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-0747,1,82.0
+tcga-06-0749,value,50,1,82,,brain,male,2008,,yes,,untreated primary (de novo) gbm,black or african american,not hispanic or latino,TCGA-06-0749,1,82.0
+tcga-06-0750,value,43,1,28,,brain,male,2008,,no,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-0750,1,28.0
+tcga-06-0878,value,74,0,,218,brain,male,2008,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-0878,0,218.0
+tcga-06-0882,value,30,1,632,,brain,male,2008,,yes,100,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-0882,1,632.0
+tcga-06-1804,value,81,1,414,,brain,female,2009,,no,,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-1804,1,414.0
+tcga-06-2557,value,76,1,33,,brain,male,2008,,no,40,untreated primary (de novo) gbm,black or african american,not hispanic or latino,TCGA-06-2557,1,33.0
+tcga-06-2558,value,75,1,380,,brain,female,2008,,yes,60,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-2558,1,380.0
+tcga-06-2559,value,83,1,150,,brain,male,2009,,yes,60,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-2559,1,150.0
+tcga-06-2561,value,53,1,537,,brain,female,2009,,yes,90,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-2561,1,537.0
+tcga-06-2562,value,81,1,382,,brain,male,2009,,yes,50,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-2562,1,382.0
+tcga-06-2563,value,72,0,,932,brain,female,2009,,yes,70,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-2563,0,932.0
+tcga-06-2564,value,50,0,,181,brain,male,2009,,yes,100,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-2564,0,181.0
+tcga-06-2565,value,59,1,506,,brain,male,2009,,yes,70,untreated primary (de novo) gbm,asian,not hispanic or latino,TCGA-06-2565,1,506.0
+tcga-06-2567,value,65,1,133,,brain,male,2009,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-2567,1,133.0
+tcga-06-2569,value,24,0,,13,brain,female,2009,,,80,untreated primary (de novo) gbm,black or african american,not hispanic or latino,TCGA-06-2569,0,13.0
+tcga-06-2570,value,21,0,,958,brain,female,2009,,yes,100,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-06-2570,0,958.0
+tcga-08-0386,value,74,1,548,,brain,male,2005,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-08-0386,1,548.0
+tcga-12-0616,value,36,1,448,,brain,female,2006,,yes,100,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-12-0616,1,448.0
+tcga-12-0618,value,49,1,395,,brain,male,2003,,yes,60,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-12-0618,1,395.0
+tcga-12-0619,value,60,1,1062,,brain,male,2003,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-12-0619,1,1062.0
+tcga-12-0821,value,62,1,323,,brain,male,1998,,yes,60,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-12-0821,1,323.0
+tcga-14-0787,value,69,1,68,,brain,male,1999,,no,60,untreated primary (de novo) gbm,asian,not hispanic or latino,TCGA-14-0787,1,68.0
+tcga-14-0789,value,54,1,342,,brain,male,2005,,yes,40,untreated primary (de novo) gbm,white,,TCGA-14-0789,1,342.0
+tcga-14-0817,value,69,1,164,,brain,female,2002,,no,60,untreated primary (de novo) gbm,white,,TCGA-14-0817,1,164.0
+tcga-15-0742,value,65,1,419,,brain,male,2005,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-15-0742,1,419.0
+tcga-15-1444,value,21,1,1537,,brain,male,2004,,yes,,glioblastoma multiforme (gbm),white,not hispanic or latino,TCGA-15-1444,1,1537.0
+tcga-16-0846,value,85,1,119,,brain,male,2006,,no,,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-16-0846,1,119.0
+tcga-19-0957,value,48,1,666,,brain,female,2007,,yes,,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-19-0957,1,666.0
+tcga-19-1389,value,51,1,141,,brain,male,2008,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-19-1389,1,141.0
+tcga-26-1442,value,43,0,,953,brain,male,2008,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-26-1442,0,953.0
+tcga-26-5133,value,59,0,,452,brain,male,2009,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-26-5133,0,452.0
+tcga-26-5134,value,74,0,,167,brain,male,2009,,yes,60,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-26-5134,0,167.0
+tcga-26-5139,value,65,0,,48,brain,female,2010,,no,60,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-26-5139,0,48.0
+tcga-28-2499,value,59,0,,,brain,male,2009,,,,untreated primary (de novo) gbm,white,,TCGA-28-2499,0,
+tcga-28-2513,value,69,0,,222,brain,female,2009,,yes,80,untreated primary (de novo) gbm,white,not hispanic or latino,TCGA-28-2513,0,222.0
+tcga-28-2514,value,45,0,,160,brain,male,2009,,yes,60,untreated primary (de novo) gbm,asian,not hispanic or latino,TCGA-28-2514,0,160.0
+tcga-28-5204,value,72,1,454,,brain,male,2009,,yes,80,untreated primary (de novo) gbm,white,,TCGA-28-5204,1,454.0
+tcga-28-5207,value,71,1,343,,brain,male,2010,,yes,70,untreated primary (de novo) gbm,white,,TCGA-28-5207,1,343.0
+tcga-28-5208,value,52,1,544,,brain,male,2010,,yes,70,untreated primary (de novo) gbm,white,,TCGA-28-5208,1,544.0
+tcga-28-5209,value,66,0,,442,brain,female,2010,,yes,,untreated primary (de novo) gbm,white,,TCGA-28-5209,0,442.0
+tcga-28-5213,value,72,0,,951,brain,male,2010,,yes,80,untreated primary (de novo) gbm,white,,TCGA-28-5213,0,951.0
+tcga-28-5215,value,62,1,335,,brain,female,2010,,yes,90,untreated primary (de novo) gbm,white,,TCGA-28-5215,1,335.0
+tcga-28-5216,value,52,0,,415,brain,male,2010,,yes,80,untreated primary (de novo) gbm,white,,TCGA-28-5216,0,415.0
+tcga-28-5218,value,63,1,157,,brain,male,2010,,yes,,untreated primary (de novo) gbm,white,,TCGA-28-5218,1,157.0
+tcga-28-5220,value,67,1,388,,brain,male,2010,,yes,90,untreated primary (de novo) gbm,white,,TCGA-28-5220,1,388.0
+tcga-32-2616,value,48,1,224,,brain,female,2008,,yes,,untreated primary (de novo) gbm,white,hispanic or latino,TCGA-32-2616,1,224.0

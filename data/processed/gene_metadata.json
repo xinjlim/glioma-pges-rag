@@ -1,0 +1,290 @@
+[
+  {
+    "gene": "ABCC3",
+    "found": true,
+    "ncbi_gene_id": "8714",
+    "official_symbol": "ABCC3",
+    "description": "ATP binding cassette subfamily C member 3",
+    "aliases": "ABC31, EST90757, MLP2, MOAT-D, MRP3, cMOAT2",
+    "summary": "The protein encoded by this gene is a member of the superfamily of ATP-binding cassette (ABC) transporters. ABC proteins transport various molecules across extra- and intra-cellular membranes. ABC genes are divided into seven distinct subfamilies (ABC1, MDR/TAP, MRP, ALD, OABP, GCN20, White). This protein is a member of the MRP subfamily which is involved in multi-drug resistance. The specific function of this protein has not yet been determined; however, this protein may play a role in the transport of biliary and intestinal excretion of organic anions. Alternatively spliced variants which encode different protein isoforms have been described; however, not all variants have been fully characterized. [provided by RefSeq, Jul 2008]"
+  },
+  {
+    "gene": "ASPM",
+    "found": true,
+    "ncbi_gene_id": "259266",
+    "official_symbol": "ASPM",
+    "description": "assembly factor for spindle microtubules",
+    "aliases": "ASP, Calmbp1, MCPH5",
+    "summary": "This gene is the human ortholog of the Drosophila melanogaster 'abnormal spindle' gene (asp), which is essential for normal mitotic spindle function in embryonic neuroblasts. Studies in mouse also suggest a role of this gene in mitotic spindle regulation, with a preferential role in regulating neurogenesis. Mutations in this gene are associated with microcephaly primary type 5. Multiple transcript variants encoding different isoforms have been found for this gene.[provided by RefSeq, May 2011]"
+  },
+  {
+    "gene": "CASP3",
+    "found": true,
+    "ncbi_gene_id": "836",
+    "official_symbol": "CASP3",
+    "description": "caspase 3",
+    "aliases": "CPP32, CPP32B, SCA-1",
+    "summary": "The protein encoded by this gene is a cysteine-aspartic acid protease that plays a central role in the execution-phase of cell apoptosis. The encoded protein cleaves and inactivates poly(ADP-ribose) polymerase while it cleaves and activates sterol regulatory element binding proteins as well as caspases 6, 7, and 9. This protein itself is processed by caspases 8, 9, and 10. It is the predominant caspase involved in the cleavage of amyloid-beta 4A precursor protein, which is associated with neuronal death in Alzheimer's disease. [provided by RefSeq, Aug 2017]"
+  },
+  {
+    "gene": "CASP4",
+    "found": true,
+    "ncbi_gene_id": "837",
+    "official_symbol": "CASP4",
+    "description": "caspase 4",
+    "aliases": "CASP-4, ICE(rel)II, ICEREL-II, ICH-2, Mih1, Mih1/TX, TX",
+    "summary": "This gene encodes a protein that is a member of the cysteine-aspartic acid protease (caspase) family. Sequential activation of caspases plays a central role in the execution-phase of cell apoptosis. Caspases exist as inactive proenzymes composed of a prodomain and a large and small protease subunit. Activation of caspases requires proteolytic processing at conserved internal aspartic residues to generate a heterodimeric enzyme consisting of the large and small subunits. This caspase is able to cleave and activate its own precursor protein, as well as caspase 1 precursor. When overexpressed, this gene induces cell apoptosis. Alternative splicing results in transcript variants encoding distinct isoforms. [provided by RefSeq, Jul 2008]"
+  },
+  {
+    "gene": "CASP6",
+    "found": true,
+    "ncbi_gene_id": "839",
+    "official_symbol": "CASP6",
+    "description": "caspase 6",
+    "aliases": "CSP-6, MCH2, caspase-6",
+    "summary": "This gene encodes a member of the cysteine-aspartic acid protease (caspase) family of enzymes. Sequential activation of caspases plays a central role in the execution-phase of cell apoptosis. Caspases exist as inactive proenzymes which undergo proteolytic processing at conserved aspartic acid residues to produce two subunits, large and small, that dimerize to form the active enzyme. This protein is processed by caspases 7, 8 and 10, and is thought to function as a downstream enzyme in the caspase activation cascade. Alternative splicing of this gene results in multiple transcript variants that encode different isoforms. [provided by RefSeq, Oct 2015]"
+  },
+  {
+    "gene": "CASP9",
+    "found": true,
+    "ncbi_gene_id": "842",
+    "official_symbol": "CASP9",
+    "description": "caspase 9",
+    "aliases": "APAF-3, APAF3, ICE-LAP6, MCH6, PPP1R56",
+    "summary": "This gene encodes a member of the cysteine-aspartic acid protease (caspase) family. Sequential activation of caspases plays a central role in the execution-phase of cell apoptosis. Caspases exist as inactive proenzymes which undergo proteolytic processing at conserved aspartic residues to produce two subunits, large and small, that dimerize to form the active enzyme. This protein can undergo autoproteolytic processing and activation by the apoptosome, a protein complex of cytochrome c and the apoptotic peptidase activating factor 1; this step is thought to be one of the earliest in the caspase activation cascade. This protein is thought to play a central role in apoptosis and to be a tumor suppressor. Alternative splicing results in multiple transcript variants. [provided by RefSeq, May 2013]"
+  },
+  {
+    "gene": "CHI3L1",
+    "found": true,
+    "ncbi_gene_id": "1116",
+    "official_symbol": "CHI3L1",
+    "description": "chitinase 3 like 1",
+    "aliases": "ASRT7, CGP-39, GP-39, GP39, HC-gp39, HCGP-3P, YK-40, YKL-40, YKL40, YYL-40, hCGP-39",
+    "summary": "Chitinases catalyze the hydrolysis of chitin, which is an abundant glycopolymer found in insect exoskeletons and fungal cell walls. The glycoside hydrolase 18 family of chitinases includes eight human family members. This gene encodes a glycoprotein member of the glycosyl hydrolase 18 family. The protein lacks chitinase activity and is secreted by activated macrophages, chondrocytes, neutrophils and synovial cells. The protein is thought to play a role in the process of inflammation and tissue remodeling. [provided by RefSeq, Sep 2009]"
+  },
+  {
+    "gene": "E2F1",
+    "found": true,
+    "ncbi_gene_id": "1869",
+    "official_symbol": "E2F1",
+    "description": "E2F transcription factor 1",
+    "aliases": "E2F-1, RBAP1, RBBP3, RBP3",
+    "summary": "The protein encoded by this gene is a member of the E2F family of transcription factors. The E2F family plays a crucial role in the control of cell cycle and action of tumor suppressor proteins and is also a target of the transforming proteins of small DNA tumor viruses. The E2F proteins contain several evolutionally conserved domains found in most members of the family. These domains include a DNA binding domain, a dimerization domain which determines interaction with the differentiation regulated transcription factor proteins (DP), a transactivation domain enriched in acidic amino acids, and a tumor suppressor protein association domain which is embedded within the transactivation domain.  This protein and another 2 members, E2F2 and E2F3, have an additional cyclin binding domain. This protein binds preferentially to retinoblastoma protein pRB in a cell-cycle dependent manner. It can mediate both cell proliferation and p53-dependent/independent apoptosis. [provided by RefSeq, Jul 2008]"
+  },
+  {
+    "gene": "ELANE",
+    "found": true,
+    "ncbi_gene_id": "1991",
+    "official_symbol": "ELANE",
+    "description": "elastase, neutrophil expressed",
+    "aliases": "ELA2, GE, HLE, HNE, NE, PMN-E, SCN1",
+    "summary": "Elastases form a subfamily of serine proteases that hydrolyze many proteins in addition to elastin. Humans have six elastase genes which encode structurally similar proteins. The encoded preproprotein is proteolytically processed to generate the active protease. Following activation, this protease hydrolyzes proteins within specialized neutrophil lysosomes, called azurophil granules, as well as proteins of the extracellular matrix. The enzyme may play a role in degenerative and inflammatory diseases through proteolysis of collagen-IV and elastin. This protein also degrades the outer membrane protein A (OmpA) of E. coli as well as the virulence factors of such bacteria as Shigella, Salmonella and Yersinia. Mutations in this gene are associated with cyclic neutropenia and severe congenital neutropenia (SCN). This gene is present in a gene cluster on chromosome 19. [provided by RefSeq, Jan 2016]"
+  },
+  {
+    "gene": "EMP3",
+    "found": true,
+    "ncbi_gene_id": "2014",
+    "official_symbol": "EMP3",
+    "description": "epithelial membrane protein 3 (MAM blood group)",
+    "aliases": "YMP",
+    "summary": "The protein encoded by this gene belongs to the PMP-22/EMP/MP20 family of proteins. The protein contains four transmembrane domains and two N-linked glycosylation sites. It is thought to be involved in cell proliferation, cell-cell interactions and function as a tumor suppressor. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Sep 2015]"
+  },
+  {
+    "gene": "HIST1H2BK",
+    "found": true,
+    "ncbi_gene_id": "85236",
+    "official_symbol": "H2BC12",
+    "description": "H2B clustered histone 12",
+    "aliases": "H2B/S, H2BFAiii, H2BFT, H2BK, HIST1H2BK",
+    "summary": "Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Two molecules of each of the four core histones (H2A, H2B, H3, and H4) form an octamer, around which approximately 146 bp of DNA is wrapped in repeating units, called nucleosomes. The linker histone, H1, interacts with linker DNA between nucleosomes and functions in the compaction of chromatin into higher order structures. This gene encodes a replication-dependent histone that is a member of the histone H2B family. The protein encoded is an antimicrobial protein with antibacterial and antifungal activity. Two transcripts that encode the same protein have been identified for this gene, which is found in the histone microcluster on chromosome 6p21.33. [provided by RefSeq, Aug 2015]"
+  },
+  {
+    "gene": "LILRA4",
+    "found": true,
+    "ncbi_gene_id": "23547",
+    "official_symbol": "LILRA4",
+    "description": "leukocyte immunoglobulin like receptor A4",
+    "aliases": "CD85g, ILT7",
+    "summary": "This gene encodes an immunoglobulin-like cell surface protein that is expressed predominantly on plasmacytoid dendritic cells (PDCs) and modulates the function of these cells in the immune response. Expression of this gene is downregulated by interleukin 3 (IL3). This gene is one of a cluster of highly related genes located at chromosomal region 19q13.4. [provided by RefSeq, Jan 2015]"
+  },
+  {
+    "gene": "MEIS1",
+    "found": true,
+    "ncbi_gene_id": "4211",
+    "official_symbol": "MEIS1",
+    "description": "Meis homeobox 1",
+    "aliases": "",
+    "summary": "Homeobox genes, of which the most well-characterized category is represented by the HOX genes, play a crucial role in normal development. In addition, several homeoproteins are involved in neoplasia. This gene encodes a homeobox protein belonging to the TALE ('three amino acid loop extension') family of homeodomain-containing proteins. [provided by RefSeq, Jul 2008]"
+  },
+  {
+    "gene": "MSN",
+    "found": true,
+    "ncbi_gene_id": "4478",
+    "official_symbol": "MSN",
+    "description": "moesin",
+    "aliases": "HEL70, IMD50",
+    "summary": "Moesin (for membrane-organizing extension spike protein) is a member of the ERM family which includes ezrin and radixin. ERM proteins appear to function as cross-linkers between plasma membranes and actin-based cytoskeletons. Moesin is localized to filopodia and other membranous protrusions that are important for cell-cell recognition and signaling and for cell movement. [provided by RefSeq, Jul 2008]"
+  },
+  {
+    "gene": "OCIAD2",
+    "found": true,
+    "ncbi_gene_id": "132299",
+    "official_symbol": "OCIAD2",
+    "description": "OCIA domain containing 2",
+    "aliases": "",
+    "summary": "Involved in cell migration and mitochondrial respiratory chain complex III assembly. Located in endosome and mitochondrial inner membrane. [provided by Alliance of Genome Resources, Jun 2026]"
+  },
+  {
+    "gene": "PLCG1",
+    "found": true,
+    "ncbi_gene_id": "5335",
+    "official_symbol": "PLCG1",
+    "description": "phospholipase C gamma 1",
+    "aliases": "IDAA, NCKAP3, PLC-II, PLC1, PLC148, PLCgamma1",
+    "summary": "The protein encoded by this gene catalyzes the formation of inositol 1,4,5-trisphosphate and diacylglycerol from phosphatidylinositol 4,5-bisphosphate. This reaction uses calcium as a cofactor and plays an important role in the intracellular transduction of receptor-mediated tyrosine kinase activators. For example, when activated by SRC, the encoded protein causes the Ras guanine nucleotide exchange factor RasGRP1 to translocate to the Golgi, where it activates Ras. Also, this protein has been shown to be a major substrate for heparin-binding growth factor 1 (acidic fibroblast growth factor)-activated tyrosine kinase. Two transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Jul 2008]"
+  },
+  {
+    "gene": "POU5F1",
+    "found": true,
+    "ncbi_gene_id": "5460",
+    "official_symbol": "POU5F1",
+    "description": "POU class 5 homeobox 1",
+    "aliases": "OCT3, OCT4, OCT4Borf1, OTF-3, OTF3, OTF4, Oct-3, Oct-4, Oct3/4",
+    "summary": "This gene encodes a transcription factor containing a POU homeodomain that plays a key role in embryonic development and stem cell pluripotency. Aberrant expression of this gene in adult tissues is associated with tumorigenesis. This gene can participate in a translocation with the Ewing's sarcoma gene on chromosome 21, which also leads to tumor formation. Alternative splicing, as well as usage of alternative AUG and non-AUG translation initiation codons, results in multiple isoforms. One of the AUG start codons is polymorphic in human populations. Related pseudogenes have been identified on chromosomes 1, 3, 8, 10, and 12. [provided by RefSeq, Oct 2013]"
+  },
+  {
+    "gene": "PRKACA",
+    "found": true,
+    "ncbi_gene_id": "5566",
+    "official_symbol": "PRKACA",
+    "description": "protein kinase cAMP-activated catalytic subunit alpha",
+    "aliases": "CAFD1, PKACA, PPNAD4",
+    "summary": "This gene encodes one of the catalytic subunits of protein kinase A, which exists as a tetrameric holoenzyme with two regulatory subunits and two catalytic subunits, in its inactive form. cAMP causes the dissociation of the inactive holoenzyme into a dimer of regulatory subunits bound to four cAMP and two free monomeric catalytic subunits. Four different regulatory subunits and three catalytic subunits have been identified in humans. cAMP-dependent phosphorylation of proteins by protein kinase A is important to many cellular processes, including differentiation, proliferation, and apoptosis. Constitutive activation of this gene caused either by somatic mutations, or genomic duplications of regions that include this gene, have been associated with hyperplasias and adenomas of the adrenal cortex and are linked to corticotropin-independent Cushing's syndrome. Alternative splicing results in multiple transcript variants encoding different isoforms. Tissue-specific isoforms that differ at the N-terminus have been described, and these isoforms may differ in the post-translational modifications that occur at the N-terminus of some isoforms. [provided by RefSeq, Jan 2015]"
+  },
+  {
+    "gene": "PSMA5",
+    "found": true,
+    "ncbi_gene_id": "5686",
+    "official_symbol": "PSMA5",
+    "description": "proteasome 20S subunit alpha 5",
+    "aliases": "PSC5, ZETA",
+    "summary": "The proteasome is a multicatalytic proteinase complex with a highly ordered ring-shaped 20S core structure. The core structure is composed of 4 rings of 28 non-identical subunits; 2 rings are composed of 7 alpha subunits and 2 rings are composed of 7 beta subunits. Proteasomes are distributed throughout eukaryotic cells at a high concentration and cleave peptides in an ATP/ubiquitin-dependent process in a non-lysosomal pathway. An essential function of a modified proteasome, the immunoproteasome, is the processing of class I MHC peptides. This gene encodes a member of the peptidase T1A family, that is a 20S core alpha subunit. Multiple alternatively spliced transcript variants encoding two distinct isoforms have been found for this gene. [provided by RefSeq, Dec 2010]"
+  },
+  {
+    "gene": "PSMB10",
+    "found": true,
+    "ncbi_gene_id": "5699",
+    "official_symbol": "PSMB10",
+    "description": "proteasome 20S subunit beta 10",
+    "aliases": "IMD121, LMP10, MECL1, PRAAS5, beta2i",
+    "summary": "The proteasome is a multicatalytic proteinase complex with a highly ordered ring-shaped 20S core structure. The core structure is composed of 4 rings of 28 non-identical subunits; 2 rings are composed of 7 alpha subunits and 2 rings are composed of 7 beta subunits. Proteasomes are distributed throughout eukaryotic cells at a high concentration and cleave peptides in an ATP/ubiquitin-dependent process in a non-lysosomal pathway. An essential function of a modified proteasome, the immunoproteasome, is the processing of class I MHC peptides. This gene encodes a member of the proteasome B-type family, also known as the T1B family, that is a 20S core beta subunit. Proteolytic processing is required to generate a mature subunit. Expression of this gene is induced by gamma interferon, and this gene product replaces catalytic subunit 2 (proteasome beta 7 subunit) in the immunoproteasome. [provided by RefSeq, Jul 2008]"
+  },
+  {
+    "gene": "PSMB6",
+    "found": true,
+    "ncbi_gene_id": "5694",
+    "official_symbol": "PSMB6",
+    "description": "proteasome 20S subunit beta 6",
+    "aliases": "DELTA, LMPY",
+    "summary": "The proteasome is a multicatalytic proteinase complex with a highly ordered ring-shaped 20S core structure. The core structure is composed of 4 rings of 28 non-identical subunits; 2 rings are composed of 7 alpha subunits and 2 rings are composed of 7 beta subunits. Proteasomes are distributed throughout eukaryotic cells at a high concentration and cleave peptides in an ATP/ubiquitin-dependent process in a non-lysosomal pathway. The encoded protein is a member of the proteasome B-type family, also known as the T1B family, and is a 20S core beta subunit in the proteasome. Alternatively spliced transcript variants encoding multiple isoforms have been observed for this gene. [provided by RefSeq, Jul 2012]"
+  },
+  {
+    "gene": "PSMD12",
+    "found": true,
+    "ncbi_gene_id": "5718",
+    "official_symbol": "PSMD12",
+    "description": "proteasome 26S subunit, non-ATPase 12",
+    "aliases": "Rpn5, STISS, p55",
+    "summary": "The 26S proteasome is a multicatalytic proteinase complex with a highly ordered structure composed of 2 complexes, a 20S core and a 19S regulator. The 20S core is composed of 4 rings of 28 non-identical subunits; 2 rings are composed of 7 alpha subunits and 2 rings are composed of 7 beta subunits. The 19S regulator is composed of a base, which contains 6 ATPase subunits and 2 non-ATPase subunits, and a lid, which contains up to 10 non-ATPase subunits. Proteasomes are distributed throughout eukaryotic cells at a high concentration and cleave peptides in an ATP/ubiquitin-dependent process in a non-lysosomal pathway. An essential function of a modified proteasome, the immunoproteasome, is the processing of class I MHC peptides. This gene encodes a non-ATPase subunit of the 19S regulator. A pseudogene has been identified on chromosome 3. Alternatively spliced transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Oct 2015]"
+  },
+  {
+    "gene": "PSMD14",
+    "found": true,
+    "ncbi_gene_id": "10213",
+    "official_symbol": "PSMD14",
+    "description": "proteasome 26S subunit, non-ATPase 14",
+    "aliases": "PAD1, POH1, RPN11",
+    "summary": "This gene encodes a component of the 26S proteasome. The 26S proteasome is a large multiprotein complex that catalyzes the degradation of ubiquitinated intracellular proteins. The encoded protein is a component of the 19S regulatory cap complex of the 26S proteasome and mediates substrate deubiquitination. A pseudogene of this gene is also located on the long arm of chromosome 2. [provided by RefSeq, Feb 2012]"
+  },
+  {
+    "gene": "PSMD9",
+    "found": true,
+    "ncbi_gene_id": "5715",
+    "official_symbol": "PSMD9",
+    "description": "proteasome 26S subunit, non-ATPase 9",
+    "aliases": "Rpn4, p27",
+    "summary": "The 26S proteasome is a multicatalytic proteinase complex with a highly ordered structure composed of 2 complexes, a 20S core and a 19S regulator. The 20S core is composed of 4 rings of 28 non-identical subunits; 2 rings are composed of 7 alpha subunits and 2 rings are composed of 7 beta subunits. The 19S regulator is composed of a base, which contains 6 ATPase subunits and 2 non-ATPase subunits, and a lid, which contains up to 10 non-ATPase subunits. Proteasomes are distributed throughout eukaryotic cells at a high concentration and cleave peptides in an ATP/ubiquitin-dependent process in a non-lysosomal pathway. An essential function of a modified proteasome, the immunoproteasome, is the processing of class I MHC peptides. This gene encodes a non-ATPase subunit of the 19S regulator. Three transcript variants encoding two different isoforms have been found for this gene. [provided by RefSeq, May 2012]"
+  },
+  {
+    "gene": "PTGER4",
+    "found": true,
+    "ncbi_gene_id": "5734",
+    "official_symbol": "PTGER4",
+    "description": "prostaglandin E receptor 4",
+    "aliases": "EP4, EP4R",
+    "summary": "The protein encoded by this gene is a member of the G-protein coupled receptor family. This protein is one of four receptors identified for prostaglandin E2 (PGE2). This receptor can activate T-cell factor signaling. It has been shown to mediate PGE2 induced expression of early growth response 1 (EGR1), regulate the level and stability of cyclooxygenase-2 mRNA, and lead to the phosphorylation of glycogen synthase kinase-3. Knockout studies in mice suggest that this receptor may be involved in the neonatal adaptation of circulatory system, osteoporosis, as well as initiation of skin immune responses. [provided by RefSeq, Jul 2008]"
+  },
+  {
+    "gene": "RUNX1",
+    "found": true,
+    "ncbi_gene_id": "861",
+    "official_symbol": "RUNX1",
+    "description": "RUNX family transcription factor 1",
+    "aliases": "AML1, AML1-EVI-1, AMLCR1, CBF2alpha, CBFA2, EVI-1, PEBP2aB, PEBP2alpha",
+    "summary": "Core binding factor (CBF) is a heterodimeric transcription factor that binds to the core element of many enhancers and promoters. The protein encoded by this gene represents the alpha subunit of CBF and is thought to be involved in the development of normal hematopoiesis. Chromosomal translocations involving this gene are well-documented and have been associated with several types of leukemia. Three transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Jul 2008]"
+  },
+  {
+    "gene": "SERPING1",
+    "found": true,
+    "ncbi_gene_id": "710",
+    "official_symbol": "SERPING1",
+    "description": "serpin family G member 1",
+    "aliases": "C1IN, C1INH, C1NH, HAE1, HAE2",
+    "summary": "This gene encodes a highly glycosylated plasma protein involved in the regulation of the complement cascade. Its encoded protein, C1 inhibitor, inhibits activated C1r and C1s of the first complement component and thus regulates complement activation. It is synthesized in the liver, and its deficiency is associated with hereditary angioneurotic oedema (HANE). Alternative splicing results in multiple transcript variants encoding the same isoform. [provided by RefSeq, May 2020]"
+  },
+  {
+    "gene": "SMC4",
+    "found": true,
+    "ncbi_gene_id": "10051",
+    "official_symbol": "SMC4",
+    "description": "structural maintenance of chromosomes 4",
+    "aliases": "CAP-C, CAPC, SMC-4, SMC4L1",
+    "summary": "This gene belongs to the 'structural maintenance of chromosomes' (SMC) gene family. Members of this gene family play a role in two changes in chromosome structure during mitotic segregation of chromosomes- chromosome condensation and sister chromatid cohesion. The protein encoded by this gene is likely a subunit of the 13S condensin complex, which is involved in chromosome condensation. A pseudogene related to this gene is located on chromosome 2. [provided by RefSeq, Jun 2016]"
+  },
+  {
+    "gene": "TFCP2L1",
+    "found": true,
+    "ncbi_gene_id": "29842",
+    "official_symbol": "TFCP2L1",
+    "description": "transcription factor CP2 like 1",
+    "aliases": "CRTR1, LBP-9, LBP9",
+    "summary": "Enables RNA polymerase II cis-regulatory region sequence-specific DNA binding activity. Involved in regulation of transcription by RNA polymerase II. Predicted to be located in chromatin. Predicted to be active in nucleus. [provided by Alliance of Genome Resources, Jul 2025]"
+  },
+  {
+    "gene": "TNFRSF12A",
+    "found": true,
+    "ncbi_gene_id": "51330",
+    "official_symbol": "TNFRSF12A",
+    "description": "TNF receptor superfamily member 12A",
+    "aliases": "CD266, FN14, TWEAKR",
+    "summary": "Involved in positive regulation of extrinsic apoptotic signaling pathway and regulation of wound healing. Predicted to be located in cell surface; membrane; and ruffle. Predicted to be active in plasma membrane. [provided by Alliance of Genome Resources, Jun 2026]"
+  },
+  {
+    "gene": "UBB",
+    "found": true,
+    "ncbi_gene_id": "7314",
+    "official_symbol": "UBB",
+    "description": "ubiquitin B",
+    "aliases": "HEL-S-50",
+    "summary": "This gene encodes ubiquitin, one of the most conserved proteins known. Ubiquitin has a major role in targeting cellular proteins for degradation by the 26S proteosome. It is also involved in the maintenance of chromatin structure, the regulation of gene expression, and the stress response. Ubiquitin is synthesized as a precursor protein consisting of either polyubiquitin chains or a single ubiquitin moiety fused to an unrelated protein. This gene consists of three direct repeats of the ubiquitin coding sequence with no spacer sequence. Consequently, the protein is expressed as a polyubiquitin precursor with a final amino acid after the last repeat. An aberrant form of this protein has been detected in patients with Alzheimer's disease and Down syndrome. Pseudogenes of this gene are located on chromosomes 1, 2, 13, and 17. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Aug 2013]"
+  },
+  {
+    "gene": "WEE1",
+    "found": true,
+    "ncbi_gene_id": "7465",
+    "official_symbol": "WEE1",
+    "description": "WEE1 G2 checkpoint kinase",
+    "aliases": "WEE1A, WEE1hu",
+    "summary": "This gene encodes a nuclear protein, which is a tyrosine kinase belonging to the Ser/Thr family of protein kinases. This protein catalyzes the inhibitory tyrosine phosphorylation of CDC2/cyclin B kinase, and appears to coordinate the transition between DNA replication and mitosis by protecting the nucleus from cytoplasmically activated CDC2 kinase. [provided by RefSeq, Jul 2008]"
+  }
+]

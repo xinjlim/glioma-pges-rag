@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/
+.env
+
+# Raw downloads: too large for GitHub, and MSigDB files may not be redistributed (see data/raw/README.md)
+data/raw/*
+!data/raw/README.md
+
+# Rebuilt by the standardise step (about 110 MB)
+data/processed/expression_common.csv
+
+# Working file of an evaluation run
+results/evaluation/*/progress.jsonl

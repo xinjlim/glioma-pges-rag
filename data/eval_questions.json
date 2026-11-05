@@ -1,0 +1,12 @@
+[
+  {"id": "Q1", "type": "comparison (all signatures)", "query": "Why do different glioma signatures show inconsistent prognostic outcomes?"},
+  {"id": "Q2", "type": "comparison (highest vs lowest agreement)", "query": "Why do Glyco and Stemness classify patients more similarly than Hypoxia and Stemness?"},
+  {"id": "Q3", "type": "comparison (pair, moderate agreement)", "query": "Why do the Diffuse and Glyco signatures largely agree on which patients are high risk?"},
+  {"id": "Q4", "type": "comparison (one vs the other four)", "query": "Why does the Hypoxia signature disagree with the other four signatures, showing much weaker concordance in patient risk stratification?"},
+  {"id": "Q5", "type": "single signature", "query": "Tell me about the Hypoxia signature."},
+  {"id": "Q6", "type": "gene-level", "query": "Which genes do the Diffuse and Stemness signatures share?"},
+  {"id": "Q7", "type": "pathway", "query": "Which pathways are enriched in the Pyroptosis signature?"},
+  {"id": "Q8", "type": "statistics", "query": "What do the log-rank p-values show about each signature's prognostic performance?"},
+  {"id": "Q9", "type": "catalogue", "query": "What signatures are included in the database?"}
+  
+]

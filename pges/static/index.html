@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Glioma signature discordance</title>
+<style>
+:root{--bg:#eef1f4;--panel:#fff;--ink:#17222d;--mute:#5b6b7a;--line:#d5dce3;--acc:#0d6e6e;--acc-ink:#fff;
+--stat:#8a4b08;--stat-bg:#fbeedb;--ev:#0d4f6e;--ev-bg:#e2f0f7;--warn:#9b1c1c}
+@media (prefers-color-scheme:dark){:root{--bg:#10171d;--panel:#18222b;--ink:#e6edf3;--mute:#93a4b3;--line:#2a3743;--acc:#3fb6b0;--acc-ink:#06201f;
+--stat:#f0b46a;--stat-bg:#3a2a12;--ev:#7cc4e6;--ev-bg:#12303f;--warn:#ff8a8a}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif;height:100vh;display:flex;flex-direction:column}
+header{padding:14px 20px;border-bottom:1px solid var(--line);background:var(--panel)}
+h1{margin:0;font:600 17px/1.3 Georgia,"Times New Roman",serif}
+header p{margin:2px 0 0;color:var(--mute);font-size:13px}
+#log{flex:1;overflow:auto;padding:20px;max-width:900px;width:100%;margin:0 auto}
+.msg{margin:0 0 18px}
+.user{background:var(--acc);color:var(--acc-ink);padding:10px 14px;border-radius:12px 12px 2px 12px;margin-left:auto;max-width:80%;width:fit-content}
+.bot{background:var(--panel);border:1px solid var(--line);border-radius:12px 12px 12px 2px;padding:14px 18px;font:16px/1.65 Georgia,serif}
+.bot h3,.bot h4{font:600 15px/1.4 system-ui,sans-serif;margin:16px 0 4px}
+.bot p{margin:6px 0}.bot ul{margin:6px 0;padding-left:22px}
+.bot .tbl{overflow-x:auto;margin:12px 0;border:1px solid var(--line);border-radius:8px}
+.bot table{border-collapse:collapse;width:100%;font:13.5px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+.bot th,.bot td{padding:9px 12px;border-bottom:1px solid var(--line);vertical-align:top;text-align:left}
+.bot th{background:var(--bg);color:var(--mute);font-weight:600;font-size:11.5px;text-transform:uppercase;letter-spacing:.04em;white-space:nowrap}
+.bot td{word-break:break-word}
+.bot td:first-child{font-weight:600;white-space:nowrap}
+.bot tbody tr:last-child td{border-bottom:0}
+.bot tbody tr:hover td{background:var(--bg)}
+.cite{font:12px/1 ui-monospace,Menlo,monospace;background:var(--ev-bg);color:var(--ev);border-radius:4px;padding:2px 5px;cursor:pointer;white-space:nowrap}
+.cite.stat{background:var(--stat-bg);color:var(--stat)}
+.cite.bad{background:transparent;color:var(--warn);outline:1px dashed var(--warn)}
+.meta{font:12px system-ui,sans-serif;color:var(--mute);margin-top:12px;padding-top:8px;border-top:1px solid var(--line)}
+.meta .bad{color:var(--warn)}
+details{margin-top:10px;font:13px system-ui,sans-serif}
+summary{cursor:pointer;color:var(--mute)}
+.ev{border-left:3px solid var(--line);padding:4px 10px;margin:8px 0;white-space:pre-wrap;word-break:break-word;color:var(--mute)}
+.ev.hit{border-color:var(--acc);color:var(--ink);background:var(--ev-bg)}
+.ev b{color:var(--ink);font-family:ui-monospace,Menlo,monospace;font-size:12px}
+.chips{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px}
+.chips button{background:var(--panel);border:1px solid var(--line);color:var(--ink);padding:7px 12px;border-radius:16px;cursor:pointer;font:13px system-ui}
+.chips button:hover{border-color:var(--acc)}
+form{display:flex;gap:10px;padding:12px 20px 18px;max-width:900px;width:100%;margin:0 auto}
+textarea{flex:1;resize:none;height:52px;padding:12px;border:1px solid var(--line);border-radius:10px;background:var(--panel);color:var(--ink);font:15px system-ui}
+button.send{background:var(--acc);color:var(--acc-ink);border:0;border-radius:10px;padding:0 22px;font:600 15px system-ui;cursor:pointer}
+button:disabled{opacity:.5;cursor:wait}
+:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+.err{color:var(--warn)}
+</style></head>
+<body>
+<header><h1>Why do glioma risk signatures disagree?</h1>
+<p>Answers are generated from the evidence set only (statistics, MSigDB, Reactome, GO, STRING, PubMed) and cite evidence IDs.</p></header>
+<div id="log" aria-live="polite">
+  <div class="chips" id="chips">
+    <button>Why do different glioma signatures show inconsistent prognostic outcomes?</button>
+    <button>Why do Pyroptosis and Hypoxia signatures have different prognostic results in glioma?</button>
+    <button>Why do Glyco and Stemness classify patients more similarly than Hypoxia and Stemness?</button>
+  </div>
+</div>
+<form id="f"><textarea id="q" placeholder="Ask about one signature, a pair, or all five…" aria-label="Question"></textarea>
+<button class="send" id="go">Ask</button></form>
+<script>
+const log=document.getElementById('log'),q=document.getElementById('q'),go=document.getElementById('go');
+const esc=s=>s.replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+const isRow=l=>/^\s*\|.*\|\s*$/.test(l);
+const isSep=l=>/^\s*\|?\s*:?-+:?\s*(\|\s*:?-+:?\s*)*\|?\s*$/.test(l);
+const cells=l=>l.trim().replace(/^\||\|$/g,'').split('|').map(c=>c.trim());
+
+function md(s,ids,bad){
+  s=esc(s).replace(/\[([^\[\]]+)\]/g,(m,g)=>g.split(/[;,]/).map(x=>x.trim()).filter(Boolean).map(id=>{
+    const cls=bad.includes(id)?'cite bad':(id.startsWith('STAT')||id.startsWith('DERIVED')?'cite stat':'cite');
+    return `<span class="${cls}" data-id="${id}" title="${bad.includes(id)?'not in retrieved evidence':'show evidence'}">${id}</span>`}).join(' '));
+  s=s.replace(/\*\*(.+?)\*\*/g,'<b>$1</b>').replace(/\*(?!\s)(.+?)\*/g,'<i>$1</i>');
+  const out=[],lines=s.split('\n');let list=false;
+  for(let i=0;i<lines.length;i++){
+    const l=lines[i];let m;
+    if(isRow(l)&&i+1<lines.length&&isSep(lines[i+1])){      // markdown table
+      if(list){out.push('</ul>');list=false}
+      let h='<div class="tbl"><table><thead><tr>'+cells(l).map(c=>`<th>${c}</th>`).join('')+'</tr></thead><tbody>';
+      i+=2;
+      while(i<lines.length&&isRow(lines[i])){h+='<tr>'+cells(lines[i]).map(c=>`<td>${c}</td>`).join('')+'</tr>';i++}
+      i--;
+      out.push(h+'</tbody></table></div>');
+    }
+    else if(m=l.match(/^\s*#{1,4}\s+(.*)/)){if(list){out.push('</ul>');list=false}out.push(`<h3>${m[1]}</h3>`)}
+    else if(m=l.match(/^\s*[\*\-]\s+(.*)/)){if(!list){out.push('<ul>');list=true}out.push(`<li>${m[1]}</li>`)}
+    else{if(list){out.push('</ul>');list=false}if(l.trim())out.push(`<p>${l}</p>`)}
+  }
+  if(list)out.push('</ul>');return out.join('');
+}
+function add(cls,html){const d=document.createElement('div');d.className='msg '+cls;d.innerHTML=html;log.appendChild(d);log.scrollTop=log.scrollHeight;return d}
+async function ask(text){
+  if(!text.trim())return;document.getElementById('chips')?.remove();
+  add('user',esc(text));q.value='';go.disabled=true;const w=add('bot','Retrieving evidence and reasoning…');
+  try{
+    const r=await fetch('/api/chat',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({query:text})});
+    const j=await r.json();if(!r.ok)throw new Error(j.error||r.status);
+    const bad=j.citations.unknown_ids,used=new Set(j.citations.cited);
+    w.innerHTML=md(j.answer,j.citations.cited,bad)+
+     `<div class="meta">${j.mode} mode · ${j.signatures.join(', ')} · ${j.model} · ${j.evidence.length} evidence blocks retrieved, ${used.size} cited`+
+     (bad.length?` · <span class="bad">${bad.length} cited ID(s) not in retrieved evidence</span>`:'')+`</div>`+
+     `<details><summary>Retrieved evidence</summary>${j.evidence.map(e=>`<div class="ev${used.has(e.id)?' hit':''}" id="ev-${esc(e.id)}"><b>${esc(e.id)}</b> (${e.how})\n${esc(e.text)}</div>`).join('')}</details>`;
+    w.querySelectorAll('.cite').forEach(c=>c.onclick=()=>{const d=w.querySelector('details');d.open=true;const t=d.querySelector('[id="ev-'+c.dataset.id+'"]');t&&t.scrollIntoView({block:'center'})});
+  }catch(e){w.innerHTML=`<span class="err">Request failed: ${esc(String(e.message))}</span>`}
+  go.disabled=false;log.scrollTop=log.scrollHeight;
+}
+document.getElementById('f').onsubmit=e=>{e.preventDefault();ask(q.value)};
+q.onkeydown=e=>{if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();ask(q.value)}};
+document.querySelectorAll('#chips button').forEach(b=>b.onclick=()=>ask(b.textContent));
+</script></body></html>
